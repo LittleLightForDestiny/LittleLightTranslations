@@ -19,7 +19,7 @@ function parseResults(results){
 
 function parseResult(key, result, foundStrings) {
   for (let i in result.matches) {
-    let match = result.matches[i].replace(/TranslatedTextWidget|"/g, "").replace("(", "").replace(/'/g, "");
+    let match = result.matches[i].replace(/TranslatedTextWidget|"/gs, "").replace("(", "").replace(/'/g, "");
     foundStrings.push(match);
   }
 }
