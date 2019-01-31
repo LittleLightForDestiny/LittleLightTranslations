@@ -4,7 +4,7 @@ let languages = ["de","en","es-mx","es","fr","it","ja","ko","pl","pt-br","ru","z
 
 
 async function findStrings(){
-  let results = await finder.find(/TranslatedTextWidget\(*?['|"](.*?)['|"]/, './../lib', '.dart$');
+  let results = await finder.find(/TranslatedTextWidget\(\s*?["|'](.*?)["|'].*?[;|,]/, './../lib', '.dart$');
   return parseResults(results);
 }
 
@@ -19,7 +19,8 @@ function parseResults(results){
 
 function parseResult(key, result, foundStrings) {
   for (let i in result.matches) {
-    let match = result.matches[i].replace(/TranslatedTextWidget|"/gs, "").replace("(", "").replace(/'/g, "");
+    if(!result.matches[i]) continue;
+    let match = result.matches[i].replace(/TranslatedTextWidget.*?["']/s, "").replace(/["'\(\),;]/g, "");
     foundStrings.push(match);
   }
 }
@@ -46,13 +47,13 @@ async function updateLanguageFile(language, strings, missingStrings){
   let contents = await fs.readJson(`./languages/${language}.json`);
   for(var i in strings){
     let str = strings[i];
-    let placeholder = `###${str}###`;
+    let placeholder = `#####${str}`;
     if(!contents[str]){
       if(!missingStrings[language]) missingStrings[language] = [];
       missingStrings[language].push(str);
     }
     if(!contents[str] && !contents[placeholder]){
-      contents[placeholder] = "Missing translation";
+      contents[placeholder] = "missing_translation";
     }
   }
   await fs.writeJson(`./languages/${language}.json`, contents, {spaces:2});
