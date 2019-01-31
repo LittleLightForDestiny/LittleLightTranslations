@@ -4,7 +4,7 @@ let languages = ["de","en","es-mx","es","fr","it","ja","ko","pl","pt-br","ru","z
 
 
 async function findStrings(){
-  let results = await finder.find(/TranslatedTextWidget\(\s*?["|'](.*?)["|'].*?[;|,]/, './../lib', '.dart$');
+  let results = await finder.find(/TranslatedTextWidget\(\s*?["'](.*?)["'].*?[;,]/, './../lib', '.dart$');
   return parseResults(results);
 }
 
