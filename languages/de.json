@@ -52,5 +52,10 @@
   "invalid_grant": "ungültiger Zuschuss",
   "You have no loadouts yet. Create your first one.": "Sie haben noch keine Auslieferungen. Erstellen Sie Ihre erste.",
   "You can only equip one exotic weapon at a time. Removing {itemName}.": "Du kannst immer nur eine exotische Waffe ausrüsten: {itemName} entfernen.",
-  "You can only equip one exotic armor piece at a time. Removing {itemName}.": "Du kannst immer nur eine exotische Rüstung ausrüsten. {ItemName} entfernen."
+  "You can only equip one exotic armor piece at a time. Removing {itemName}.": "Du kannst immer nur eine exotische Rüstung ausrüsten. {ItemName} entfernen.",
+  "Try Again": "Versuchen Sie es erneut",
+  "Exit": "Ausfahrt",
+  "Login with another account": "Melden Sie sich mit einem anderen Konto an",
+  "DestinyAccountNotFound": "Destiny Konto nicht gefunden",
+  "We were unable to find your Destiny account information. If you have a valid Destiny Account let us know.": "Wir konnten Ihre Destiny-Kontoinformationen nicht finden. Wenn Sie einen gültigen Destiny-Account haben, lassen Sie es uns wissen."
 }

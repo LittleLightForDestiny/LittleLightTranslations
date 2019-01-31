@@ -52,5 +52,10 @@
   "invalid_grant": "subvention invalide",
   "You have no loadouts yet. Create your first one.": "Vous n'avez pas encore de chargements, créez votre premier.",
   "You can only equip one exotic weapon at a time. Removing {itemName}.": "Vous ne pouvez équiper qu'une seule arme exotique à la fois.",
-  "You can only equip one exotic armor piece at a time. Removing {itemName}.": "Vous ne pouvez équiper qu’une pièce d’armure exotique à la fois."
+  "You can only equip one exotic armor piece at a time. Removing {itemName}.": "Vous ne pouvez équiper qu’une pièce d’armure exotique à la fois.",
+  "Try Again": "Essayez encore",
+  "Exit": "sortie",
+  "Login with another account": "Se connecter avec un autre compte",
+  "DestinyAccountNotFound": "Compte Destiny introuvable",
+  "We were unable to find your Destiny account information. If you have a valid Destiny Account let us know.": "Nous n'avons pas pu trouver vos informations de compte Destiny. Si vous avez un compte Destiny valide, faites-le nous savoir."
 }

@@ -52,5 +52,10 @@
   "invalid_grant": "無効な助成金",
   "You have no loadouts yet. Create your first one.": "まだロードアウトはありません。 あなたの最初のものを作成してください。",
   "You can only equip one exotic weapon at a time. Removing {itemName}.": "一度に装備できるエキゾチックな武器は1つだけです。 {itemName}を削除しています。",
-  "You can only equip one exotic armor piece at a time. Removing {itemName}.": "一度に装備できるエキゾチックな鎧のピースは1つだけです。 {itemName}を削除しています。"
+  "You can only equip one exotic armor piece at a time. Removing {itemName}.": "一度に装備できるエキゾチックな鎧のピースは1つだけです。 {itemName}を削除しています。",
+  "Try Again": "もう一度試す",
+  "Exit": "出口",
+  "Login with another account": "他のアカウントでログイン",
+  "DestinyAccountNotFound": "「Destiny」アカウントが見つかりません",
+  "We were unable to find your Destiny account information. If you have a valid Destiny Account let us know.": "Destinyのアカウント情報が見つかりません。 有効なDestinyアカウントをお持ちの場合はお知らせください。"
 }

@@ -52,5 +52,10 @@
   "invalid_grant": "無效的補助",
   "You have no loadouts yet. Create your first one.": "你還沒有裝載。 創建你的第一個。",
   "You can only equip one exotic weapon at a time. Removing {itemName}.": "你一次只能裝備一件外來武器。 正在刪除{itemName}。",
-  "You can only equip one exotic armor piece at a time. Removing {itemName}.": "你一次只能裝備一件異國情調的盔甲。 正在刪除{itemName}。"
+  "You can only equip one exotic armor piece at a time. Removing {itemName}.": "你一次只能裝備一件異國情調的盔甲。 正在刪除{itemName}。",
+  "Try Again": "再試一次",
+  "Exit": "出口",
+  "Login with another account": "使用其他帳戶登錄",
+  "DestinyAccountNotFound": "未找到“命運”帳戶",
+  "We were unable to find your Destiny account information. If you have a valid Destiny Account let us know.": "我們無法找到您的Destiny帳戶信息。 如果您有有效的Destiny帳戶，請告知我們。"
 }
