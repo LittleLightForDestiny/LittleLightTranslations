@@ -8,7 +8,7 @@
   "Uncompressing": "Decomprimendo",
   "Login": "Accedi",
   "Authorize with Bungie.net": "Autorizza con Bungie.net",
-  "Authorize Description": "Autorizza descrizione",
+  "Authorize with Bungie.net to use inventory management features": "Authorize with Bungie.net to use inventory management features",
   "Select Language": "Seleziona la lingua",
   "Select Platform": "Seleziona piattaforma",
   "Not logged in": "Accesso non effettuato",
@@ -80,5 +80,7 @@
   "Type": "Tipo",
   "Ammo Type": "Tipo di munizioni",
   "Power Level": "Livello di Potere",
-  "All": "Tutto"
+  "All": "Tutto",
+  "#####Equip Max Light": "missing_translation",
+  "#####Equip Loadout": "missing_translation"
 }
