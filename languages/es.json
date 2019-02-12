@@ -47,10 +47,10 @@
   "Loadout Name": "Nombre del armamento",
   "Want to support Little Light ?": "¿Quieres apoyar a Little Light?",
   "Looks like you dont play destiny on this Bungie.net account. Try logging into a different account.": "Parece que no juegas a Destiny en esta cuenta de Bungie.net. Intenta iniciar sesión en una cuenta diferente.",
-  "Pull": "Tirar",
+  "Pull": "Retirar",
   "AuthorizationCodeInvalid": "Código de autorización inválido",
   "invalid_grant": "Error al iniciar sesión en la cuenta de Bungie.net",
-  "You have no loadouts yet. Create your first one.": "Aún no tienes ningún armamento creado. Crea el primero.",
+  "You have no loadouts yet. Create your first one.": "Aún no has creado ningún armamento. Pulsa Crear un armamento para crear el primero.",
   "You can only equip one exotic weapon at a time. Removing {itemName}.": "Solo puedes tener equipada un arma excepcional al mismo tiempo. No puedes equipar {itemName}.",
   "You can only equip one exotic armor piece at a time. Removing {itemName}.": "Solo puedes tener equipada una pieza de armadura excepcional al mismo tiempo. No puedes equipar {itemName}.",
   "Try Again": "Inténtalo otra vez",
@@ -81,8 +81,8 @@
   "Ammo Type": "Tipo de munición",
   "Power Level": "Nivel de poder",
   "All": "Todos",
-  "#####Equip Max Light": "Equipar Nivel de poder máximo",
+  "#####Equip Max Light": "Equipar armas y piezas de armadura de poder máximo",
   "#####Equip Loadout": "Equipar armamento",
-  "#####Quest steps": "missing_translation",
-  "#####From the questline": "missing_translation"
+  "#####Quest steps": "Pasos de aventura",
+  "#####From the questline": "De la aventura"
 }
