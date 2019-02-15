@@ -87,8 +87,9 @@
   "From the questline": "Parte da jornada",
   "View next steps": "Ver próximos passos",
   "Equipped": "Equipado",
-  "#####Rate it": "missing_translation",
-  "#####Pursuits": "missing_translation",
-  "#####{appName} is brought to you by your fellow guardian": "missing_translation",
-  "#####Translations": "missing_translation"
+  "Rate it": "Avalie",
+  "Pursuits": "Empreitadas",
+  "{appName} is brought to you by your fellow guardian": "{appName} foi desenvolvido pelo seu colega guardião",
+  "Translations": "Traduções",
+  "Credits": "Créditos"
 }

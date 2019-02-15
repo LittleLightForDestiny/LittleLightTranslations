@@ -87,8 +87,9 @@
   "From the questline": "Aus der Questreihe",
   "View next steps": "Nächste Schritte anzeigen",
   "Equipped": "Ausgestattet",
-  "#####Rate it": "missing_translation",
-  "#####Pursuits": "missing_translation",
-  "#####{appName} is brought to you by your fellow guardian": "missing_translation",
-  "#####Translations": "missing_translation"
+  "Rate it": "Bewerte es",
+  "Pursuits": "Verfolgungen",
+  "{appName} is brought to you by your fellow guardian": "{appName} wird von Ihrem Vormund mitgebracht",
+  "Translations": "Übersetzungen",
+  "#####Credits": "missing_translation"
 }

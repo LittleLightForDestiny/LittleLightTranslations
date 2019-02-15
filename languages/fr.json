@@ -87,8 +87,9 @@
   "From the questline": "De la série de quêtes",
   "View next steps": "Voir les prochaines étapes",
   "Equipped": "Équipé",
-  "#####Rate it": "missing_translation",
-  "#####Pursuits": "missing_translation",
-  "#####{appName} is brought to you by your fellow guardian": "missing_translation",
-  "#####Translations": "missing_translation"
+  "Rate it": "Notez le",
+  "Pursuits": "Poursuites",
+  "{appName} is brought to you by your fellow guardian": "{appName} vous est présenté par votre compagnon tuteur",
+  "Translations": "Traductions",
+  "#####Credits": "missing_translation"
 }

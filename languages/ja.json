@@ -87,8 +87,9 @@
   "From the questline": "クエストラインから",
   "View next steps": "次のステップを見る",
   "Equipped": "装備",
-  "#####Rate it": "missing_translation",
-  "#####Pursuits": "missing_translation",
-  "#####{appName} is brought to you by your fellow guardian": "missing_translation",
-  "#####Translations": "missing_translation"
+  "Rate it": "それを評価",
+  "Pursuits": "追求",
+  "{appName} is brought to you by your fellow guardian": "{appName}はあなたの仲間の後見人によってあなたにもたらされました",
+  "Translations": "翻訳",
+  "#####Credits": "missing_translation"
 }
