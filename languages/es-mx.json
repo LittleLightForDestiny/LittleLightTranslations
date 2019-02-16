@@ -87,9 +87,9 @@
   "From the questline": "De la aventura",
   "View next steps": "Ver pasos siguientes",
   "Equipped": "Equipado",
-  "#####Rate it": "missing_translation",
-  "#####Pursuits": "missing_translation",
-  "#####{appName} is brought to you by your fellow guardian": "missing_translation",
-  "#####Translations": "missing_translation",
-  "#####Credits": "missing_translation"
+  "Rate it": "Puntualo",
+  "Pursuits": "Contratos",
+  "{appName} is brought to you by your fellow guardian": "{appName} fue desarrollado por tu compañero guardian",
+  "Translations": "Traducciones",
+  "Credits": "Creditos"
 }
