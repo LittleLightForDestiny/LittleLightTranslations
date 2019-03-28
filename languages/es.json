@@ -125,5 +125,7 @@
   "Contact": "Contacto",
   "Become a Patron": "Conviertete en Patreon",
   "Buy me a Coffee": "Invítame a un Café",
-  "Report issues": "Reportar errores"
+  "Report issues": "Reportar errores",
+  "#####Duplicates": "missing_translation",
+  "#####Dev Tools": "missing_translation"
 }
