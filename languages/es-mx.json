@@ -128,12 +128,12 @@
   "Report issues": "Reportar errores",
   "Duplicates": "Duplicados",
   "Dev Tools": "Dev Tools",
-  "#####Inventory": "missing_translation",
-  "#####Settings": "missing_translation",
-  "#####Keep Awake": "missing_translation",
-  "#####Keep device awake while the app is open": "missing_translation",
-  "#####Order items by": "missing_translation",
-  "#####Name": "missing_translation",
-  "#####Sub type": "missing_translation",
-  "#####and then": "missing_translation"
+  "Inventory": "Inventario",
+  "Settings": "Ajustes",
+  "Keep Awake": "Mantener desbloqueado",
+  "Keep device awake while the app is open": "Mantiene el dispositivo encendido mientras la app está abierta",
+  "Order items by": "Ordenar equipo por",
+  "Name": "Nombre",
+  "Sub type": "Subtipo",
+  "and then": "y además"
 }
