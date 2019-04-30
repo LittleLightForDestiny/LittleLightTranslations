@@ -21,8 +21,9 @@ function parseResult(key, result, foundStrings) {
   for (let i in result.matches) {
     if(!result.matches[i]) continue;
     let match = result.matches[i];
-    let regexp = /TranslatedTextWidget\(.*?["'](.*?)["']/s;
-    let regMatch = regexp.exec(match);
+    let regexpSingleQuote = /TranslatedTextWidget\(.*?['](.*?)[']/s;
+    let regexpDoubleQuote = /TranslatedTextWidget\(.*?["](.*?)["]/s;
+    let regMatch = regexpSingleQuote.exec(match) || regexpDoubleQuote.exec(match);
     let matchResult = regMatch[1];
     foundStrings.push(matchResult);
   }
