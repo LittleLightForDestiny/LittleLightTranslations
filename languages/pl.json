@@ -144,5 +144,6 @@
   "#####You aren't tracking any objectives yet. Add one from Triumphs or Pursuits.": "missing_translation",
   "#####Rewards": "missing_translation",
   "#####Expired": "missing_translation",
-  "#####Expires {timeFromNow}": "missing_translation"
+  "#####Expires {timeFromNow}": "missing_translation",
+  "#####Can't connect to Bungie servers. Please check your internet connection and try again.": "missing_translation"
 }
