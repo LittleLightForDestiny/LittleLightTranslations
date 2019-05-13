@@ -139,5 +139,8 @@
   "Art": "Art",
   "Stop Tracking": "Arrêter Tracking",
   "Track Objectives": "Tracker Objectifs",
-  "You aren't tracking any objectives yet. Add one from Triumphs or Pursuits.": "Tu ne suis aucun objectif. Ajoute en un des Triomphes ou Poursuites."
+  "You aren't tracking any objectives yet. Add one from Triumphs or Pursuits.": "Tu ne suis aucun objectif. Ajoute en un des Triomphes ou Poursuites.",
+  "#####Rewards": "missing_translation",
+  "#####Expired": "missing_translation",
+  "#####Expires {timeFromNow}": "missing_translation"
 }

@@ -140,5 +140,8 @@
   "Art": "Arte",
   "Stop Tracking": "Parar de seguir",
   "Track Objectives": "Seguir Objetivos",
-  "You aren't tracking any objectives yet. Add one from Triumphs or Pursuits.": "Você ainda não está seguindo nenhum objetivo. Adicione um Triunfo ou Empreitada."
+  "You aren't tracking any objectives yet. Add one from Triumphs or Pursuits.": "Você ainda não está seguindo nenhum objetivo. Adicione um Triunfo ou Empreitada.",
+  "Rewards": "Recompensas",
+  "Expired": "Expirado",
+  "Expires {timeFromNow}": "Expira {timeFromNow}"
 }
