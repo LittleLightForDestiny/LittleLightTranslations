@@ -1,2 +1,4 @@
 package-lock.json
 node_modules
+metadata/ios/review_information
+metadata/ios/trade_representative_contact_information

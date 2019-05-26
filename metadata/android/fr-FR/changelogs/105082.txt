@@ -1,0 +1,2 @@
+- adding auto refresh to triumphs
+- adding completion counts to triumphs/collections

@@ -1,0 +1,2 @@
+- fixing an issue with diacritics on searching with some languages
+- fixing the swapped equip/transfer loadouts buttons because I'm stupid

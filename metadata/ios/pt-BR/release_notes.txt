@@ -1,0 +1,2 @@
+- corrigindo um problema com acentos na busca por perks
+- corrigindo os botões de equipar/transferir loadouts que estavam trocados pq eu sou estupido

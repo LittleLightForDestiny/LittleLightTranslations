@@ -1,0 +1,3 @@
+- moved things a bit
+- added perk search
+- fixing some stuff in share image
