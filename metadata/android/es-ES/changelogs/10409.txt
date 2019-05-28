@@ -1,2 +1,2 @@
-- adding perks and mod icons
-- feeling cluttered, might delete later
+- Añadido iconos de perks y modificadores
+- Está algo desordenado, se arreglará más adelante
