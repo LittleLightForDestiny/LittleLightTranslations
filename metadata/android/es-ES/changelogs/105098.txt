@@ -1,2 +1,2 @@
-- adding perks and mods details
-- now you can track catalysts progress =)
+- Añadido detalles de perks y modificadores
+- Ahora puedes seguir el progreso de los catalizadores =)
