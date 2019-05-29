@@ -1,8 +1,10 @@
-Lucecita is an item manager for Destiny 2 that will make your guardian's life a lot easier.
-- Quick transfer any item between characters
-- transfer more than one item at once (hold an item to activate multi-select)
-- Create loadouts for equipping an entire set in one click
-- List all your duplicated items to transfer them to any character
-- see all relevant mods of your items in the equipment list
-- quick switch between plaftorms
-- see all item details, including hidden stats, perks, stats buffs for every perk and lore.
+Lucecita es un administrador de equipo para Destiny 2 que hará la vida del guardian mucho más fácil.
+- Transfiere rápido cualquier equipo entre personajes.
+- Transfiere más de un objeto a la vez (manten apretado un objeto para activar la selección múltiple).
+- Crea conjuntos para equiparlos enteros con un solo click.
+- Muestra tus duplicados para transferirlos a cualquier personaje.
+- Muestra todos los modificadores relevantes de tus objets en la lista de equipamiento.
+- Cambio rápido entre plataformas (PS4, XBOX, PC)
+- Muestra todos los detalles de los objetos, incluidas estadisticas ocultas, atributos, beneficios de cada atributo e historia.
+- Comprueba las colecciones de excepcionales, cosmeticos y conjunto de armas y armaduras
+- Haz seguimiento de triunfos, contratos, aventuras y catalizadores.
