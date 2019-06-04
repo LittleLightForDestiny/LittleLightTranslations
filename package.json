@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
+    "changelogs": "node create_changelogs.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "João Paulo Marquesini",
@@ -12,5 +13,9 @@
   "dependencies": {
     "find-in-files": "^0.5.0",
     "fs-extra": "^7.0.1"
+  },
+  "devDependencies": {
+    "inquirer": "^6.3.1",
+    "prompt-input": "^3.0.0"
   }
 }
