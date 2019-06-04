@@ -156,7 +156,7 @@
   "Transfer Loadout": "Transferir conjunto",
   "Details": "Detalles",
   "Other": "Otros",
-  "#####Rarity": "missing_translation",
-  "#####Class Type": "missing_translation",
-  "#####Quantity": "missing_translation"
+  "Rarity": "Rareza",
+  "Class Type": "Clase",
+  "Quantity": "Cantidad"
 }
