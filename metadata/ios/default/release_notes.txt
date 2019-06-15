@@ -1,3 +1,1 @@
-- fixed that pesky infinite uncompressing progress bar bug
-- fixed an issue where hush little baby and other pinnacle weapon quests won't show it's progress
-
+- fixing a small bug when trying to track pinnacle weapons quests
