@@ -1,3 +1,3 @@
-- fixed that pesky infinite uncompressing progress bar bug
-- fixed an issue where hush little baby and other pinnacle weapon quests won't show it's progress
+- Arreglado un error molesto que mostraba una descompresión indefinidamente
+- Arreglado un error con "Duerme, bebé" y otras aventuras de armas pinaculo que no mostraban su progreso
 
