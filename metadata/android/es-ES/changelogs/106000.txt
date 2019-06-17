@@ -1,5 +1,5 @@
-- Multi-account support
-- Fixed an issue where users weren't able to see their inventory
-- Fixed an issue with seals not being displayed
-- Added damage types to collections
-- Adding a Supporter section on credits for Patreon Supporters (yay! thanks Smartypaws and whitekenyan03)
+- Soporte para multi cuentas
+- Arreglado un error que impedia a los usuarios ver su inventario
+- Arreglado un error con los sellos que no se mostraban
+- Añadido tipo de daño a colecciones
+- Añadida sección de Patreons en Acerca de para los Patrones (yay! Gracias Smartypaws y Whitekenyan03)
