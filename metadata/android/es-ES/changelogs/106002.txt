@@ -1,1 +1,1 @@
-- fixing a small bug when trying to track pinnacle weapons quests
+- Arreglado un pequeño fallo al intentar seguir aventuras de armas pinaculo
