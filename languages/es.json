@@ -174,5 +174,12 @@
   "Manage Accounts": "Gestionar cuentas",
   "Accounts": "Cuentas",
   "Supporters": "Patreons",
-  "Remove": "Quitar"
+  "Remove": "Quitar",
+  "#####Update failed": "missing_translation",
+  "#####Transfer failed": "missing_translation",
+  "#####Equip failed": "missing_translation",
+  "#####Order pursuits by": "missing_translation",
+  "#####First created": "missing_translation",
+  "#####Last created": "missing_translation",
+  "#####Expiration Date": "missing_translation"
 }
