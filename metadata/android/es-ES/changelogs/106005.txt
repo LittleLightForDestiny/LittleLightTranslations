@@ -1,1 +1,1 @@
-- minor bug spray
+- Arreglados errores menores con las opciones para ordenar
