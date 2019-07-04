@@ -183,13 +183,13 @@
   "First created": "Primeiro criado",
   "Last created": "Último criado",
   "Expiration Date": "Data de expiração",
-  "#####Chalice Recipes": "missing_translation",
-  "#####Top": "missing_translation",
-  "#####Left": "missing_translation",
-  "#####Right": "missing_translation",
-  "#####Any Purple rune": "missing_translation",
-  "#####Any Red rune": "missing_translation",
-  "#####Any Green rune": "missing_translation",
-  "#####Any Blue rune": "missing_translation",
-  "#####Group": "missing_translation"
+  "#####Chalice Recipes": "Receitas do Cálice",
+  "#####Top": "Cima",
+  "#####Left": "Esquerda",
+  "#####Right": "Direita",
+  "#####Any Purple rune": "Qualquer runa Roxa",
+  "#####Any Red rune": "Qualquer runa Vermelha",
+  "#####Any Green rune": "Qualquer runa Verde",
+  "#####Any Blue rune": "Qualquer runa Azul",
+  "#####Group": "Grupo"
 }
