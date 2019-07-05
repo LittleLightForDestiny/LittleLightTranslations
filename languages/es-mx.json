@@ -182,13 +182,13 @@
   "First created": "Primero creado",
   "Last created": "Último creaddo",
   "Expiration Date": "Tiempo de caducidad",
-  "#####Chalice Recipes": "missing_translation",
-  "#####Top": "missing_translation",
-  "#####Left": "missing_translation",
-  "#####Right": "missing_translation",
-  "#####Any Purple rune": "missing_translation",
-  "#####Any Red rune": "missing_translation",
-  "#####Any Green rune": "missing_translation",
-  "#####Any Blue rune": "missing_translation",
-  "#####Group": "missing_translation"
+  "Chalice Recipes": "Combinación de Cáliz",
+  "Top": "Superior",
+  "Left": "Izquierda",
+  "Right": "Derecha",
+  "Any Purple rune": "Cualquier runa Morada",
+  "Any Red rune": "Cualquier runa Roja",
+  "Any Green rune": "Cualquier runa Verde",
+  "Any Blue rune": "Cualquier runa Azul",
+  "Group": "Grupo"
 }
