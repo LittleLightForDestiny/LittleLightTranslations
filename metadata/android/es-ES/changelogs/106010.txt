@@ -1,2 +1,2 @@
-- added chalice recipes =)
-- minor interface improvements towards tablet users
+- Añadidas combinaciones del Cáliz de la Opulencia =)
+- Mejoras menores de la interfaz para tabletas.
