@@ -14,14 +14,16 @@ async function run(){
     name: "file_contents",
     message:"What's new?"
   }]);
+  var iosPath = `./metadata/ios/default/release_notes.txt`;
+  fs.writeFile(iosPath, answers.file_contents);
   languages.forEach((language)=>{
     var androidPath = `./metadata/android/${language}/changelogs/${answers.package_version}.txt`;
     if(!fs.existsSync(androidPath)){
       fs.writeFile(androidPath, answers.file_contents);
     }
+    var iosLanguagePath = `./metadata/ios/${language}/release_notes.txt`;
+    fs.writeFile(iosLangugePath, answers.file_contents);
   });
-  var iosPath = `./metadata/ios/default/release_notes.txt`;
-  fs.writeFile(iosPath, answers.file_contents);
 }
 
 run();

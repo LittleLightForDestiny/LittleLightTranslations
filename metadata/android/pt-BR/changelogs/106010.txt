@@ -1,0 +1,2 @@
+- adicionando receitas para o calice =)
+- pequenas melhorias de interface para usuários de tablet
