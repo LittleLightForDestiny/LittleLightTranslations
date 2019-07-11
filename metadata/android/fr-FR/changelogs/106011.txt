@@ -2,4 +2,3 @@
 - fixed some wrong max light loadouts (hope all of them) 
 - added a "free slots" options when equipping loadouts via quick menu
 
-
