@@ -1,3 +1,1 @@
-- corrigindo receitas para fusis de fusão
-- corrigindo alguns loadouts de luz máxima
-- adicionando um slider de "Liberar espaço" ao equipar loadouts pelo menu rápido
+- fixing tracked pursuits bug
