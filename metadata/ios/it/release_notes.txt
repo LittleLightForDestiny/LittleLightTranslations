@@ -1,2 +1,2 @@
-- adding quick transfer (tap an empty spot to open a search window)
-- removing expiry info from already completed quests
+- removing keyboard auto-focus on quicktransfer
+
