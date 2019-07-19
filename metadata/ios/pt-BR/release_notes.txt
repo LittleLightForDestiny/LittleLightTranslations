@@ -1,1 +1,2 @@
-- fixing tracked pursuits bug
+- adding quick transfer (tap an empty spot to open a search window)
+- removing expiry info from already completed quests
