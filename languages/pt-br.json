@@ -203,9 +203,9 @@
   "As Equipped": "Equipado",
   "Reordering Loadouts": "Reorganizando Loadouts",
   "Modifiers": "Modificadores",
-  "#####Hey, tap me!": "missing_translation",
-  "#####Default free slots": "missing_translation",
-  "#####Auto open Keyboard": "missing_translation",
-  "#####Open keyboard automatically in quick search": "missing_translation",
-  "#####Item Holder": "missing_translation"
+  "Hey, tap me!": "Ei! Clica aqui!",
+  "Default free slots": "Liberar espaços padrão (loadouts)",
+  "Auto open Keyboard": "Abrir teclado automaticamente",
+  "Open keyboard automatically in quick search": "Abre o teclado automaticamente na busca rapida",
+  "Item Holder": "Personagem"
 }
