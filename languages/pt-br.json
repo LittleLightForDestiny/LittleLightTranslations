@@ -202,5 +202,10 @@
   "Moving Away": "Liberando espaço",
   "As Equipped": "Equipado",
   "Reordering Loadouts": "Reorganizando Loadouts",
-  "Modifiers": "Modificadores"
+  "Modifiers": "Modificadores",
+  "#####Hey, tap me!": "missing_translation",
+  "#####Default free slots": "missing_translation",
+  "#####Auto open Keyboard": "missing_translation",
+  "#####Open keyboard automatically in quick search": "missing_translation",
+  "#####Item Holder": "missing_translation"
 }
