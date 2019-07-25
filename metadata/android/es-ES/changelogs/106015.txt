@@ -1,3 +1,2 @@
-- fixing an issue where pursuits won't be displayed for some users
-- fixing a issue that would prevent pinnacle quests from being tracked
-
+- Arreglado un problema en el que no se mostrarán Contratos para algunos usuarios.
+- Arreglado un problema que evitaría el seguimiento de las Aventuras pináculo.

@@ -1,1 +1,1 @@
-- fixing tracked pursuits bug
+- Arreglado error al seguir Contratos

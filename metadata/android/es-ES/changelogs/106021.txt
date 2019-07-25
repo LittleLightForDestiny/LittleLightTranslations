@@ -1,2 +1,1 @@
-- removing keyboard auto-focus on quicktransfer
-
+- Eliminada apertura automática del teclado en las transferencias rápidas.
