@@ -1,7 +1,6 @@
-- adding loadout ordering
-- adding loadout search
-- adding 'add to loadout' button on item details
-- revamp on milestones and pursuits
-- revamp on collections
-- adding rewards for quests and bounties
-
+- Añadida posibilidad de ordenar los Conjuntos
+- Añadida busqueda de Conjunto
+- Añadido botón 'Añadir a Conjunto' en los detalles de equipo
+- Remodelado en Hazañas y Contratos
+- Remodelado en Colecciones
+- Añadida la información de recompensas en Aventuras y Contratos
