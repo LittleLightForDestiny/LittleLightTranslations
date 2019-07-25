@@ -1,3 +1,2 @@
-- Arreglado un problema
 - Arreglado un problema en el que no se mostrarán Contratos para algunos usuarios.
 - Arreglado un problema que evitaría el seguimiento de las Aventuras pináculo.
