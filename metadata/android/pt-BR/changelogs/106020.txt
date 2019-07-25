@@ -1,0 +1,2 @@
+- adicionando atalho de transferencia rapida (clicar num espaço vazio vai abrir um menu para buscar um item)
+- removendo informação de expiração de contratos já concluídos

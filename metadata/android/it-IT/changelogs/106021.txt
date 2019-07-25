@@ -1,0 +1,2 @@
+- removing keyboard auto-focus on quicktransfer
+
