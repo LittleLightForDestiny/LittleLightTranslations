@@ -1,2 +1,2 @@
-- adding quick transfer (tap an empty spot to open a search window)
-- removing expiry info from already completed quests
+- Añadida transferencia rápida (pulsar un hueco vacío abrirar la ventana de búsqueda)
+- Eliminada información de caducidad en las Aventuras ya completadas
