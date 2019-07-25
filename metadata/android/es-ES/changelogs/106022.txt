@@ -1,4 +1,4 @@
-- fixing an issue that would prevent an item being unequipped if you only had exotics in your inventory
-- adding an option to sort your items by item holder
-- adding an option to set the default number of items to move away when equipping loadouts
-- fixing a bug when equipping max light loadout
+- Arreglado un error que evita que un equipo no se equipe si solo tuviera objetos excepcionales en su inventario.
+- Añadida una opción para ordenar tus artículos por personaje.
+- Añadida una opción para establecer el número predeterminado de huecos libres cuando se equipan Conjuntos.
+- Arreglado un error al equipar el conjunto de máxima poder disponible.
