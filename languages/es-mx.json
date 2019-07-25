@@ -206,5 +206,7 @@
   "Default free slots": "Espacios libres por defecto al transferir un Conjunto",
   "Auto open Keyboard": "Abrir teclado automáticamente",
   "Open keyboard automatically in quick search": "Abre el teclado automáticamente en las búsquedas rápidas",
-  "Item Holder": "Personaje"
+  "Item Holder": "Personaje",
+  "#####server_error": "missing_translation",
+  "#####SystemDisabled": "missing_translation"
 }

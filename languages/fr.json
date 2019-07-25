@@ -205,5 +205,7 @@
   "#####Default free slots": "missing_translation",
   "#####Auto open Keyboard": "missing_translation",
   "#####Open keyboard automatically in quick search": "missing_translation",
-  "#####Item Holder": "missing_translation"
+  "#####Item Holder": "missing_translation",
+  "#####server_error": "missing_translation",
+  "#####SystemDisabled": "missing_translation"
 }
