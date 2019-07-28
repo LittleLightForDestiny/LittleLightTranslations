@@ -207,5 +207,7 @@
   "Default free slots": "Liberar espaços padrão (loadouts)",
   "Auto open Keyboard": "Abrir teclado automaticamente",
   "Open keyboard automatically in quick search": "Abre o teclado automaticamente na busca rapida",
-  "Item Holder": "Personagem"
+  "Item Holder": "Personagem",
+  "#####server_error": "missing_translation",
+  "#####SystemDisabled": "missing_translation"
 }

@@ -1,4 +1,5 @@
-- corrigindo um problema que impedia de desequipar itens se só houvesse itens exóticos no inventário
-- adicionando uma opção para ordenar os itens de acordo com o personagem que o possui
-- adicionando uma opção para definir o numero padrão de itens para liberar espaço ao mover loadouts
-- corrigindo um bug que calculava errado o loadout de luz maxima
+- adding search button to equipment and progress screens
+- removing search area from side menu
+- minor bug spray
+
+

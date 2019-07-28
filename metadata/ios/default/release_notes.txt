@@ -1,4 +1,5 @@
-- fixing an issue that would prevent an item being unequipped if you only had exotics in your inventory
-- adding an option to sort your items by item holder
-- adding an option to set the default number of items to move away when equipping loadouts
-- fixing a bug when equipping max light loadout
+- adding search button to equipment and progress screens
+- removing search area from side menu
+- minor bug spray
+
+
