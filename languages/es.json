@@ -207,6 +207,6 @@
   "Auto open Keyboard": "Abrir teclado automáticamente",
   "Open keyboard automatically in quick search": "Abre el teclado automáticamente en las búsquedas rápidas",
   "Item Holder": "Personaje",
-  "#####server_error": "missing_translation",
-  "#####SystemDisabled": "missing_translation"
+  "server_error": "Error del servidor",
+  "SystemDisabled": "Sistema deshabilitado"
 }
