@@ -202,11 +202,11 @@
   "As Equipped": "As Equipped",
   "Reordering Loadouts": "Reordering Loadouts",
   "Modifiers": "Modifiers",
-  "#####Hey, tap me!": "missing_translation",
-  "#####Default free slots": "missing_translation",
-  "#####Auto open Keyboard": "missing_translation",
-  "#####Open keyboard automatically in quick search": "missing_translation",
-  "#####Item Holder": "missing_translation",
-  "#####server_error": "missing_translation",
-  "#####SystemDisabled": "missing_translation"
+  "Hey, tap me!": "Hey, tap me!",
+  "Default free slots": "Default free slots",
+  "Auto open Keyboard": "Auto open Keyboard",
+  "Open keyboard automatically in quick search": "Open keyboard automatically in quick search",
+  "Item Holder": "Item Holder",
+  "server_error": "Server error",
+  "SystemDisabled": "System Disabled"
 }
