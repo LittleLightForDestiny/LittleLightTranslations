@@ -1,5 +1,3 @@
-- adding search button to equipment and progress screens
-- removing search area from side menu
-- minor bug spray
-
-
+- fixed search ordering
+- made the search more flexible (now you can search for "enhanced sniper" and it will find "enhanced unflinching sniper aim" for example
+ 
