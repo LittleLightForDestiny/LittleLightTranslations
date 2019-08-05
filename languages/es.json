@@ -1,4 +1,96 @@
 {
+  //inicio
+  "Select Language": "Selecciona el idioma",
+  "Select Platform": "Selecciona la plataforma",
+  
+  //comun
+  "OK": "Vale",
+  "Later": "Más tarde",
+  "No": "No",
+  "Yes": "Sí",
+  
+  //descompresion
+  "Download Database": "Descarga de base de datos",
+  "Downloading": "Descargando",
+  "Uncompressing": "Descomprimiendo",
+  
+  //login
+  "Login": "Iniciar sesión",
+  "Not logged in": "No has iniciado sesión",
+  "Tap to Login": "Pulsa para iniciar sesión",
+  "Login with another account": "Inicia sesión con otra cuenta",
+  "Authorize with Bungie.net to use inventory management features": "Bungie.net necesita tu autorización para poder administrar tu inventario.",
+  "Authorize with Bungie.net": "Autorizar con Bungie.net",
+  "Authentication Error": "Ha ocurrido un error de autenticación",
+  "Looks like you dont play destiny on this Bungie.net account. Try logging into a different account.": "Parece que no juegas a Destiny en esta cuenta de Bungie.net. Intenta iniciar sesión en una cuenta diferente.",
+  "AuthorizationCodeInvalid": "Código de autorización inválido",
+  "invalid_grant": "Error al iniciar sesión en la cuenta de Bungie.net",
+  "DestinyAccountNotFound": "No se ha encontrado una cuenta de Destiny",
+  "We were unable to find your Destiny account information. If you have a valid Destiny Account let us know.": "No hemos podido encontrar la información de tu cuenta Destiny. Si tienes una cuenta de Destiny válida, vuelve a intentarlo.",
+  "If this keeps happening, please try to login with a mainstream browser.": "Si esto sigue ocurriendo, intenta iniciar sesión en un navegador diferente.",
+  "Please dont open the auth process in another safari window, this could prevent you from getting logged in.": "Por favor, no abras el proceso de autenticación en otra pestaña, podría impedirte iniciar sesión.",
+  "We were unable to find your Destiny account information. If you have a valid Destiny Account, let us know.": "No hemos podido encontrar la información de tu cuenta de Destiny. Si tienes una cuenta de Destiny válida, vuelve a intentarlo.",
+  "invalid_request": "Solicitud no válida",
+  "We&#39;ve encountered an error, please try again later.": "Hemos encontrado un error, por favor vuelve a intentarlo más tarde.",
+  "Change Account": "Cambiar de cuenta",
+  "Change Membership": "Cambiar de plataforma",
+  
+  "Change Language": "Cambiar de idioma",
+
+  //error
+  "Error": "Ha ocurrido un error",
+  "UnknownError": "Ha ocurrido un error desconocido",
+  "server_error": "Error del servidor",
+  "SystemDisabled": "Sistema deshabilitado"
+  "access_denied": "Acceso denegado",
+  
+  //Ajustes
+  "Settings": "Ajustes",
+  "Keep Awake": "Mantener desbloqueado",
+  "Keep device awake while the app is open": "Mantiene el dispositivo encendido mientras la app está abierta",
+  "Order items by": "Ordenar equipo por",
+  "Name": "Nombre",
+  "Sub type": "Subtipo",
+  "and then": "y además",
+
+  //otros
+  "Hey, tap me!": "¡Hey, púlsame!",
+  "Updating": "Actualizando",
+  "Transferring": "Transfiriendo",
+  "Equipping": "Equipando",
+  "Exit": "Salir",
+  
+  
+ 
+  
+  "Level": "Nivel",
+  
+  //menu espectro
+  "Equip Max Light": "Equipar objetos de máximo poder",
+  "Equip Loadout": "Equipar conjunto",
+  "Equipped": "Equipado",
+  "Pull everything from postmaster": "Recoger todo de la administración",
+  "Force refresh": "Forzar actualización",
+  
+  //Equipamiento
+  "Equipment": "Equipamiento",
+  "Weapon": "Arma",
+  "Armor": "Armadura",
+  "Inventory": "Invenario",
+  "Level {Level}": "Nivel {Level}",
+  "{itemCount} items selected": "{itemCount} objetos seleccionados",
+  "Clear": "Cerrar",
+  "Transfer": "Transferir",
+  "Unequip": "Desequipar",
+  "Add to Loadout": "Añadir a conjunto",
+  "Duplicates": "Duplicados",
+  "Stats": "Estadísticas",
+  "Lore": "Historia",
+  "How to get": "Dónde se obtiene",
+  
+  //Progreso
+  "Progress": "Progreso",
+  "Milestones": "Hazañas",
   "#EATER OF WORLDS TRANSLATION INSTRUCTIONS#": "Below are the names of the phases(checkpoints) of the Eater of Worlds raid lair, some of them are boss names and doesn't need translation",
   "Loyalists": "Lealistas",
   "Vex Rings": "Anillos Vex",
@@ -24,78 +116,76 @@
   "Crystals": "Infiltración",
   "Deception": "Engaño",
   "Gahlran": "Gahlran",
-  "OK": "Vale",
-  "Later": "Más tarde",
-  "Level": "Nivel",
-  "Updating": "Actualizando",
-  "Download Database": "Descarga de base de datos",
-  "Downloading": "Descargando",
-  "Uncompressing": "Descomprimiendo",
-  "Login": "Iniciar sesión",
-  "Authorize with Bungie.net": "Autorizar con Bungie.net",
-  "Authorize with Bungie.net to use inventory management features": "Bungie.net necesita tu autorización para poder administrar tu inventario.",
-  "Select Language": "Selecciona el idioma",
-  "Select Platform": "Selecciona la plataforma",
-  "Not logged in": "No has iniciado sesión",
-  "Tap to Login": "Pulsa para iniciar sesión",
+  
+  "Pursuits": "Contratos",
+  "Quest steps": "Pasos de aventura",
+  "From the questline": "De la aventura",
+  "View next steps": "Ver pasos siguientes",
+  
+  //Seguimiento
+  "Objectives": "Seguimiento",
+  "Stop Tracking": "Dejar de seguir",
+  "Track Objectives": "Añadir a Seguimiento",
+  "You aren't tracking any objectives yet. Add one from Triumphs or Pursuits.": "No estas siguiendo ninguna busqueda. Añade una desde Contratos o Triunfos.",
+  "Rewards": "Recompensas",
+  "Expired": "Caducado",
+  "Expires {timeFromNow}": "Caduca {timeFromNow}",
+  
+  //Conjuntos
+  "Loadouts": "Conjuntos",
+  "You have no loadouts yet. Create your first one.": "Aún no has creado ningún conjunto. Utiliza el siguiente botón para crear el primero.",
+  "Create Loadout": "Crear un conjunto",
+  "Loadout Name": "Nombre del conjunto",
+  "Select Loadout Background": "Selecciona un fondo para este conjunto",
+  "Select {bucketName}": "Selecciona {bucketName}",  
+  "You can only equip one exotic weapon at a time. Removing {itemName}.": "Solo puedes tener equipada un arma excepcional al mismo tiempo. Se ha eliminado {itemName} del conjunto.",
+  "You can only equip one exotic armor piece at a time. Removing {itemName}.": "Solo puedes tener equipada una pieza de armadura excepcional al mismo tiempo. Se ha eliminado {itemName} del conjunto.",
+  "Save Loadout": "Guardar conjunto",
+  "Edit Loadout": "Editar este conjunto",
+
   "Equip": "Equipar",
   "Edit": "Editar",
   "Delete": "Borrar",
-  "No": "No",
-  "Yes": "Sí",
-  "Level {Level}": "Nivel {Level}",
-  "Authentication Error": "Ha ocurrido un error de autenticación",
-  "Error": "Ha ocurrido un error",
-  "UnknownError": "Ha ocurrido un error desconocido",
-  "Triumphs": "Triunfos",
-  "Select Loadout Background": "Selecciona un fondo para este conjunto",
-  "Loadouts": "Conjuntos",
-  "Create Loadout": "Crear un conjunto",
   "Items to Equip": "Objetos para equipar",
   "Items to Transfer": "Objetos para transferir",
-  "Save Loadout": "Guardar conjunto",
-  "Collections": "Colecciones",
-  "Equipment": "Equipamiento",
-  "Search": "Buscar",
-  "Change Account": "Cambiar de cuenta",
-  "Change Membership": "Cambiar de plataforma",
-  "Change Language": "Cambiar de idioma",
-  "Transfer": "Transferir",
-  "Stats": "Estadísticas",
-  "Unequip": "Desequipar",
-  "Lore": "Historia",
-  "Edit Loadout": "Editar este conjunto",
   "Transfer to:": "Transferir a:",
   "Equip on:": "Equipar en:",
+  
   "Do you really want to delete the loadout {loadoutName} ?": "¿Estás seguro de que quieres eliminar el conjunto {loadoutName}?",
-  "Select {bucketName}": "Selecciona {bucketName}",
-  "Loadout Name": "Nombre del conjunto",
+
+  //Colecciones
+  "Collections": "Colecciones",
+
+  //Triunfos
+  "Triumphs": "Triunfos",
+  
+  //Duplicados
+  "Duplicated Items": "Items Duplicados",
+  
+  //Acerca de
+  "About": "Acerca de",
   "Want to support Little Light ?": "¿Quieres apoyar a Little Light?",
-  "Looks like you dont play destiny on this Bungie.net account. Try logging into a different account.": "Parece que no juegas a Destiny en esta cuenta de Bungie.net. Intenta iniciar sesión en una cuenta diferente.",
-  "Pull": "Retirar",
-  "AuthorizationCodeInvalid": "Código de autorización inválido",
-  "invalid_grant": "Error al iniciar sesión en la cuenta de Bungie.net",
-  "You have no loadouts yet. Create your first one.": "Aún no has creado ningún conjunto. Utiliza el siguiente botón para crear el primero.",
-  "You can only equip one exotic weapon at a time. Removing {itemName}.": "Solo puedes tener equipada un arma excepcional al mismo tiempo. Se ha eliminado {itemName} del conjunto.",
-  "You can only equip one exotic armor piece at a time. Removing {itemName}.": "Solo puedes tener equipada una pieza de armadura excepcional al mismo tiempo. Se ha eliminado {itemName} del conjunto.",
-  "Try Again": "Inténtalo otra vez",
-  "Exit": "Salir",
-  "Login with another account": "Inicia sesión con otra cuenta",
-  "DestinyAccountNotFound": "No se ha encontrado una cuenta de Destiny",
-  "We were unable to find your Destiny account information. If you have a valid Destiny Account let us know.": "No hemos podido encontrar la información de tu cuenta Destiny. Si tienes una cuenta de Destiny válida, vuelve a intentarlo.",
-  "Objectives": "Seguimiento",
-  "If this keeps happening, please try to login with a mainstream browser.": "Si esto sigue ocurriendo, intenta iniciar sesión en un navegador diferente.",
-  "Please dont open the auth process in another safari window, this could prevent you from getting logged in.": "Por favor, no abras el proceso de autenticación en otra pestaña, podría impedirte iniciar sesión.",
-  "We were unable to find your Destiny account information. If you have a valid Destiny Account, let us know.": "No hemos podido encontrar la información de tu cuenta de Destiny. Si tienes una cuenta de Destiny válida, vuelve a intentarlo.",
-  "invalid_request": "Solicitud no válida",
-  "We&#39;ve encountered an error, please try again later.": "Hemos encontrado un error, por favor vuelve a intentarlo más tarde.",
-  "{itemCount} items selected": "{itemCount} objetos seleccionados",
-  "Clear": "Cerrar",
-  "Transferring": "Transfiriendo",
-  "Equipping": "Equipando",
-  "access_denied": "Acceso denegado",
-  "Weapon": "Arma",
-  "Armor": "Armadura",
+  "Rate it": "Puntúalo",
+  "{appName} is brought to you by your fellow guardian": "{appName} fue desarrollado por tu compañero guardián",
+  "Translations": "Traducciones",
+  "Credits": "Créditos",
+  "Follow @LittleLightD2": "Sigue a @LittleLightD2",
+  "Join the Discord server": "Únete al servidor de Discord",
+  "Development": "Desarrollador",
+  "Contact": "Contacto",
+  "Become a Patron": "Conviertete en Patreon",
+  "Buy me a Coffee": "Invítame a un Café",
+  "Report issues": "Reportar errores",
+  "Support Little Light": "Apoya Lucecita",
+  "Art": "Arte",
+  
+  
+  
+
+  
+  
+  //Buscar
+  "Search": "Buscar",
   "Everything": "Todo",
   "Filters": "Filtros",
   "Damage Type": "Tipo de daño",
@@ -106,49 +196,42 @@
   "Ammo Type": "Tipo de munición",
   "Power Level": "Nivel de poder",
   "All": "Todos",
-  "Equip Max Light": "Equipar objetos de máximo poder",
-  "Equip Loadout": "Equipar conjunto",
-  "Quest steps": "Pasos de aventura",
-  "From the questline": "De la aventura",
-  "View next steps": "Ver pasos siguientes",
-  "Equipped": "Equipado",
-  "Rate it": "Puntúalo",
-  "Pursuits": "Contratos",
-  "{appName} is brought to you by your fellow guardian": "{appName} fue desarrollado por tu compañero guardián",
-  "Translations": "Traducciones",
-  "Credits": "Créditos",
-  "Progress": "Progreso",
-  "Milestones": "Hazañas",
-  "Pull everything from postmaster": "Recoger todo de la administración",
-  "Force refresh": "Forzar actualización",
-  "How to get": "Dónde se obtiene",
-  "Duplicated Items": "Items Duplicados",
-  "About": "Acerca de",
-  "Follow @LittleLightD2": "Sigue a @LittleLightD2",
-  "Join the Discord server": "Únete al servidor de Discord",
-  "Development": "Desarrollador",
-  "Contact": "Contacto",
-  "Become a Patron": "Conviertete en Patreon",
-  "Buy me a Coffee": "Invítame a un Café",
-  "Report issues": "Reportar errores",
-  "Duplicates": "Duplicados",
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  "Pull": "Retirar",
+  
+  
+  "Try Again": "Inténtalo otra vez",
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+  
+  
   "Dev Tools": "Dev Tools",
-  "Inventory": "Invenario",
-  "Settings": "Ajustes",
-  "Keep Awake": "Mantener desbloqueado",
-  "Keep device awake while the app is open": "Mantiene el dispositivo encendido mientras la app está abierta",
-  "Order items by": "Ordenar equipo por",
-  "Name": "Nombre",
-  "Sub type": "Subtipo",
-  "and then": "y además",
-  "Support Little Light": "Apoya Lucecita",
-  "Art": "Arte",
-  "Stop Tracking": "Dejar de seguir",
-  "Track Objectives": "Añadir a Seguimiento",
-  "You aren't tracking any objectives yet. Add one from Triumphs or Pursuits.": "No estas siguiendo ninguna busqueda. Añade una desde Contratos o Triunfos.",
-  "Rewards": "Recompensas",
-  "Expired": "Caducado",
-  "Expires {timeFromNow}": "Caduca {timeFromNow}",
+  
+  
+  
+  
+  
+  
   "Can't connect to Bungie servers. Please check your internet connection and try again.": "No se puede conectar a los servidores de Bungie. Por favor comprueba tu conexión de internet y prueba otra vez.",
   "Ranks": "Rangos",
   "Last played {timeago}": "Última vez en línea {timeago}",
@@ -169,7 +252,7 @@
   "Creation date": "Fecha creación",
   "Custom": "Personalizado",
   "Do you really want to exit Little Light?": "¿Seguro que quieres salir de Lucecita?",
-  "Add to Loadout": "Añadir a conjunto",
+  
   "Equip only": "Solo equipar",
   "Add as equipped": "Añadir como equipado",
   "Random Loadout": "Conjunto aleatorio",
@@ -202,11 +285,9 @@
   "As Equipped": "Cómo equipado",
   "Reordering Loadouts": "Reordenando conjuntos",
   "Modifiers": "Modificadores",
-  "Hey, tap me!": "¡Hey, púlsame!",
+  
   "Default free slots": "Espacios libres por defecto al transferir un Conjunto",
   "Auto open Keyboard": "Abrir teclado automáticamente",
   "Open keyboard automatically in quick search": "Abre el teclado automáticamente en las búsquedas rápidas",
   "Item Holder": "Personaje",
-  "server_error": "Error del servidor",
-  "SystemDisabled": "Sistema deshabilitado"
 }
