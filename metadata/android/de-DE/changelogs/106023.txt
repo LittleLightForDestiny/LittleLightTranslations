@@ -1,0 +1,5 @@
+- adding search button to equipment and progress screens
+- removing search area from side menu
+- minor bug spray
+
+
