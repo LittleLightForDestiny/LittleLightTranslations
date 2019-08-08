@@ -208,5 +208,6 @@
   "Open keyboard automatically in quick search": "Open keyboard automatically in quick search",
   "Item Holder": "Item Holder",
   "server_error": "Server error",
-  "SystemDisabled": "System Disabled"
+  "SystemDisabled": "System Disabled",
+  "NewTermAdd" : "NewTermAdd"
 }
