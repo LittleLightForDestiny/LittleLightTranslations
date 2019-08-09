@@ -1,9 +1,10 @@
 {
-    "#EATER OF WORLDS TRANSLATION INSTRUCTIONS#": "Below are the names of the phases(checkpoints) of the Eater of Worlds raid lair, some of them are boss names and doesn't need translation",
-    "Loyalists": "Lealistas",
-    "Vex Rings": "Anéis Vex",
-    "Shields": "Escudos",
-    "Argos": "Argos",
+    "#EATER OF WORLDS TRANSLATION INSTRUCTIONS#": {
+        "Loyalists": "Lealistas",
+        "Vex Rings": "Anéis Vex",
+        "Shields": "Escudos",
+        "Argos": "Argos"
+    },
     "#SPIRE OF STARS TRANSLATION INSTRUCTIONS#": "Below are the names of the phases(checkpoints) of the SPIRE OF STARS raid lair, some of them are boss names and doesn't need translation",
     "Statue Garden": "Jardim das Estátuas",
     "Conduit Room": "Sala dos Conduítes",
