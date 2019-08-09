@@ -64,7 +64,7 @@
     "Stats": "Estatísticas",
     "Unequip": "Remover",
     "Lore": "História",
-    "C_Loadouts": {
+    "Loadouts context": {
         "Edit Loadout": "Editar Loadout",
         "Do you really want to delete the loadout {loadoutName} ?": "Você realmente deseja excluir o loadout {loadoutName}"
     },
