@@ -64,12 +64,12 @@
     "Stats": "Estatísticas",
     "Unequip": "Remover",
     "Lore": "História",
-    "Edit Loadout": "Editar Loadout",
-    "Transfer to:": "Transferir para:",
-    "Equip on:": "Equipar em:",
-    "Cuando se elimina un loadout": {
+    "C_Loadouts": {
+        "Edit Loadout": "Editar Loadout",
         "Do you really want to delete the loadout {loadoutName} ?": "Você realmente deseja excluir o loadout {loadoutName}"
     },
+    "Transfer to:": "Transferir para:",
+    "Equip on:": "Equipar em:",
     "Select {bucketName}": "Selecione {bucketName}",
     "Loadout Name": "Nome do Loadout",
     "Want to support Little Light ?": "Gostaria de apoiar o Luzinha ?",
