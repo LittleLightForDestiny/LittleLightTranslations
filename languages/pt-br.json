@@ -1,20 +1,19 @@
 {
     "# START #": "",
     "# INITIALIZATION #": {
-        "Select Language": "Selecione o Idioma",
-        "Select Platform": "Selecione a platforma",
-        "Download Database": "Download de informações do Jogo",
-        "Downloading": "Baixando",
-        "Uncompressing": "Descompactando"
+        "Select Language": "",
+        "Select Platform": "",
+        "Download Database": "",
+        "Downloading": "",
+        "Uncompressing": ""
     },
-    "# COMMON #": {
-        "OK": "OK",
-        "Later": "Mais Tarde",
-        "No": "Não",
-        "Yes": "Sim",
-        "Exit": "Sair",
-        "Do you really want to exit Little Light?": "Você realmente deseja sair do Luzinha ?"
-    },
+    "# COMMON #": "",
+    "OK": "",
+    "Later": "",
+    "No": "",
+    "Yes": "",
+    "Exit": "",
+    "Do you really want to exit Little Light?": "",
     "# LOGIN #": "",
     "Login": "Login",
     "Not logged in": "Não logado",
@@ -122,49 +121,49 @@
     "Any Blue rune": "Qualquer runa Azul",
     "More recipes on": "Mais receitas em",
     "# PROGRESS #": {
-        "Progress": "Progresso",
-        "Milestones": "Marcos",
-        "Pursuits": "Empreitadas",
-        "From the questline": "Parte da jornada",
-        "Quest steps": "Passos da Jornada",
-        "View next steps": "Ver próximos passos",
-        "Ranks": "Reputação"
+        "Progress": "",
+        "Milestones": "",
+        "#EATER OF WORLDS PHASES": {
+            "Loyalists": "",
+            "Vex Rings": "",
+            "Shields": "",
+            "Argos": ""
+        },
+        "#SPIRE OF STARS PHASES": {
+            "Statue Garden": "",
+            "Conduit Room": "",
+            "Ships": "",
+            "Val Ca'uor": ""
+        },
+        "#LAST WISH PHASES": {
+            "Kalli": "",
+            "Shuro Chi": "",
+            "Morgeth": "",
+            "Vault Room": "",
+            "Riven": ""
+        },
+        "#SCOURGE OF THE PAST PHASES": {
+            "Botza District": "",
+            "Vault Access": "",
+            "Insurrection Prime": ""
+        },
+        "#CROWN OF SORROWS PHASES": {
+            "Lamps": "",
+            "Crystals": "",
+            "Deception": "",
+            "Gahlran": ""
+        },
+        "Pursuits": "",
+        "From the questline": "",
+        "Quest steps": "",
+        "View next steps": "",
+        "Ranks": ""
     },
     "#EATER OF WORLDS TRANSLATION INSTRUCTIONS#": "Below are the names of the phases(checkpoints) of the Eater of Worlds raid lair, some of them are boss names and doesn't need translation",
-    "# PROGRESS #.#EATER OF WORLDS PHASES#": {
-        "Loyalists": "",
-        "Vex Rings": "",
-        "Shields": "",
-        "Argos": ""
-    },
     "#SPIRE OF STARS TRANSLATION INSTRUCTIONS#": "Below are the names of the phases(checkpoints) of the SPIRE OF STARS raid lair, some of them are boss names and doesn't need translation",
-    "# PROGRESS #.#SPIRE OF STARS PHASES#": {
-        "Statue Garden": "Jardim das Estátuas",
-        "Conduit Room": "Sala dos Conduítes",
-        "Ships": "Naves",
-        "Val Ca'uor": "Val Ca'uor"
-    },
     "#LAST WISH TRANSLATION INSTRUCTIONS#": "Below are the names of the phases(checkpoints) of the LAST WISH raid, some of them are boss names and doesn't need translation",
-    "# PROGRESS #.#LAST WISH PHASES#": {
-        "Kalli": "Kalli",
-        "Shuro Chi": "Shuro Chi",
-        "Morgeth": "Morgeth",
-        "Vault Room": "Sala do Cofre",
-        "Riven": "Riven"
-    },
     "#SCOURGE OF THE PAST TRANSLATION INSTRUCTIONS#": "Below are the names of the phases(checkpoints) of the SCOURGE OF THE PAST raid, some of them are boss names and doesn't need translation",
-    "# PROGRESS #.#SCOURGE OF THE PAST PHASES#": {
-        "Botza District": "Distrito Botza",
-        "Vault Access": "Accesso ao Cofre",
-        "Insurrection Prime": "Insurreição Primária"
-    },
     "#CROWN OF SORROWS TRANSLATION INSTRUCTIONS#": "Below are the names of the phases of the CROWN OF SORROWS raid, some of them are boss names and doesn't need translation",
-    "# PROGRESS #.#CROWN OF SORROWS PHASES#": {
-        "Lamps": "",
-        "Crystals": "",
-        "Deception": "",
-        "Gahlran": ""
-    },
     "# OBJECTIVES #": "",
     "Objectives": "Objetivos",
     "Stop Tracking": "Parar de seguir",
