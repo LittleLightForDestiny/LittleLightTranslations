@@ -1,10 +1,5 @@
 {
-    "#EATER OF WORLDS TRANSLATION INSTRUCTIONS#": {
-        "Loyalists": "Lealistas",
-        "Vex Rings": "Anéis Vex",
-        "Shields": "Escudos",
-        "Argos": "Argos"
-    },
+    "#EATER OF WORLDS TRANSLATION INSTRUCTIONS#": "Below are the names of the phases(checkpoints) of the Eater of Worlds raid lair, some of them are boss names and doesn't need translation",
     "#SPIRE OF STARS TRANSLATION INSTRUCTIONS#": "Below are the names of the phases(checkpoints) of the SPIRE OF STARS raid lair, some of them are boss names and doesn't need translation",
     "Statue Garden": "Jardim das Estátuas",
     "Conduit Room": "Sala dos Conduítes",
@@ -65,10 +60,6 @@
     "Stats": "Estatísticas",
     "Unequip": "Remover",
     "Lore": "História",
-    "Loadouts context": {
-        "Edit Loadout": "Editar Loadout",
-        "Do you really want to delete the loadout {loadoutName} ?": "Você realmente deseja excluir o loadout {loadoutName}"
-    },
     "Transfer to:": "Transferir para:",
     "Equip on:": "Equipar em:",
     "Select {bucketName}": "Selecione {bucketName}",
@@ -211,5 +202,12 @@
     "Open keyboard automatically in quick search": "Abre o teclado automaticamente na busca rapida",
     "Item Holder": "Personagem",
     "server_error": "Server error",
-    "SystemDisabled": ""
+    "SystemDisabled": "",
+    "Loyalists": "",
+    "Vex Rings": "",
+    "Shields": "",
+    "Argos": "",
+    "Edit Loadout": "",
+    "Do you really want to delete the loadout {loadoutName} ?": "",
+    "NewTermAdd": ""
 }
