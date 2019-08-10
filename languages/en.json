@@ -5,6 +5,7 @@
     "Download Database": "Download Database",
     "Downloading": "Downloading",
     "Uncompressing": "Uncompressing",
+    "Test" : "Test",
     "# COMMON #": "",
     "OK": "OK",
     "Later": "Later",
@@ -225,6 +226,5 @@
     "Sub type": "Sub type",
     "and then": "and then",
     "Other": "Other",
-    "# NEW STRINGS TO CATEGORIZE #": "",
-    "Test" : "Test"
+    "# NEW STRINGS TO CATEGORIZE #": ""
 }
