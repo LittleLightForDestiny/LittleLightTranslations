@@ -67,9 +67,7 @@
     "Edit Loadout": "로드 아웃 편집",
     "Transfer to:": "로 전송:",
     "Equip on:": "착용 :",
-    "Cuando se elimina un loadout": {
-        "Do you really want to delete the loadout {loadoutName} ?": "로드 아웃 {loadoutName}을 (를) 정말로 삭제 하시겠습니까?"
-    },
+    "Do you really want to delete the loadout {loadoutName} ?": "로드 아웃 {loadoutName}을 (를) 정말로 삭제 하시겠습니까?",
     "Select {bucketName}": "{bucketName}을 선택하십시오",
     "Loadout Name": "로드 아웃 이름",
     "Want to support Little Light ?": "리틀 라이트를 지원하고 싶습니까?",
