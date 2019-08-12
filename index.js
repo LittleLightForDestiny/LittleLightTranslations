@@ -39,6 +39,17 @@ async function copyOriginalLanguageFiles(){
   }
 }
 
+async function createEmptyFiles(){
+  for(var i in languages){
+    let language = languages[i];
+    let exists = await fs.exists(`./languages/${language}.json`);  
+    if(!exists){
+      await fs.createFile(`./languages/${language}.json`);
+      await fs.writeJSON(`./languages/${language}.json`, {});
+    }
+  }
+}
+
 async function updateLanguageFiles(strings) {
   let missingStrings = {};
   for(var i in languages){
@@ -81,6 +92,7 @@ function printResults(result){
 async function run(){
   await fs.mkdirp('./languages');
   // copyOriginalLanguageFiles();
+  await createEmptyFiles();
   let strings = await findStrings();
   let result = await updateLanguageFiles(strings);
   printResults(result);
