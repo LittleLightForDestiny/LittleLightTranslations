@@ -1,6 +1,6 @@
 var finder = require('find-in-files');
 var fs = require('fs-extra');
-let languages = ["de","en","es-mx","es","fr","it","ja","ko","pl","pt-br","ru","zh-chs","zh-cht"];
+let languages = ["en"];
 
 
 async function findStrings(){
@@ -51,13 +51,13 @@ async function updateLanguageFile(language, strings, missingStrings){
   let contents = await fs.readJson(`./languages/${language}.json`);
   for(var i in strings){
     let str = strings[i];
-    let placeholder = `#####${str}`;
+    let placeholder = `${str}`;
     if(!contents[str]){
       if(!missingStrings[language]) missingStrings[language] = [];
       missingStrings[language].push(str);
     }
     if(!contents[str] && !contents[placeholder]){
-      contents[placeholder] = "missing_translation";
+      contents[placeholder] = placeholoder;
     }
   }
   await fs.writeJson(`./languages/${language}.json`, contents, {spaces:2});
@@ -80,7 +80,7 @@ function printResults(result){
 
 async function run(){
   await fs.mkdirp('./languages');
-  copyOriginalLanguageFiles();
+  // copyOriginalLanguageFiles();
   let strings = await findStrings();
   let result = await updateLanguageFiles(strings);
   printResults(result);
