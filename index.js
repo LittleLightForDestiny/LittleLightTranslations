@@ -71,7 +71,7 @@ async function updateLanguageFile(language, strings, missingStrings){
       contents[placeholder] = placeholder;
     }
   }
-  await fs.writeJson(`./languages/${language}.json`, contents, {spaces:2});
+  await fs.writeJson(`./languages/${language}.json`, contents, {spaces:4});
 }
 
 function printResults(result){
