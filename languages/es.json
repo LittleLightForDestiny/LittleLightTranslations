@@ -70,11 +70,8 @@
     "Moving Away": "Retirando al depósito",
     "Hey, tap me!": "¡Hey, púlsame!",
     "Max Light": "Máximo Poder",
-    "Equip Max Light": "Equipar objetos de máximo poder",
     "Random Weapons": "Armas aleatorias",
     "Random Armor": "Armadura aleatoria",
-    "Equip Loadout": "Equipar conjunto",
-    "Transfer Loadout": "Transferir conjunto",
     "Weapons": "Armas",
     "Equipped": "Equipado",
     "Pull everything from postmaster": "Recoger todo de la administración",
@@ -195,8 +192,8 @@
     "Not Available": "No disponible",
     "Can only hold one at a time": "Sólo puedes tener uno a la vez",
     "Already Selling": "En venta",
-    "Unsellable": "Unsellable",
-    "Selling Inhibited": "Selling Inhibited",
-    "Already Owned": "Already Owned",
-    "Display Only": "Display Only"
+    "Unsellable": "No vendible",
+    "Selling Inhibited": "Venta vetada",
+    "Already Owned": "Ya comprado",
+    "Display Only": "Sólo mostrar"
 }
