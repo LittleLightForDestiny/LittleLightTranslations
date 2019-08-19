@@ -35,7 +35,7 @@
     "UnknownError": "Unbekannter Fheler",
     "server_error": "Server Error",
     "SystemDisabled": "System deaktiviert",
-    "access_denied": "access_denied",
+    "access_denied": "zugriff verweigert",
     "Can't connect to Bungie servers. Please check your internet connection and try again.": "Can't connect to Bungie servers. Please check your internet connection and try again.",
     "Try Again": "Versuche es erneut",
     "Settings": "Settings",
