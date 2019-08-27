@@ -25,7 +25,7 @@
     "AuthorizationCodeInvalid": "Codice di autorizzazione non valido",
     "invalid_grant": "Permesso non valido",
     "DestinyAccountNotFound": "Account Destiny non trovato",
-    "If this keeps happening, please try to login with a mainstream browser.": "Se questo continua ad accadere, prova ad accedere con un browser.",
+    "If this keeps happening, please try to login with a mainstream browser.": "Se continui a ricevere questo errore, prova ad accedere con un altro browser.",
     "Please dont open the auth process in another safari window, this could prevent you from getting logged in.": "Non aprire il processo di autenticazione in un'altra finestra di Safari, potrebbe impedire l'accesso.",
     "We were unable to find your Destiny account information. If you have a valid Destiny Account, let us know.": "Non siamo riusciti a trovare le informazioni del tuo account Destiny. Se hai un account Destiny valido, contattaci.",
     "invalid_request": "Richiesta non valida",
