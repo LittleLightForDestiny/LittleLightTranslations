@@ -195,5 +195,8 @@
     "Unsellable": "Nicht Verkaufbar",
     "Selling Inhibited": "Verkaufen Verboten",
     "Already Owned": "Bereits im Besitz",
-    "Display Only": "Nur anzeigen"
+    "Display Only": "Nur anzeigen",
+    "Energy": "Energy",
+    "Transfer Loadout": "Transfer Loadout",
+    "Vault": "Vault"
 }
