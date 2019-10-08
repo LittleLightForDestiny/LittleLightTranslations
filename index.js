@@ -24,8 +24,10 @@ function parseResult(key, result, foundStrings) {
     let regexpSingleQuote = /TranslatedTextWidget\(.*?['](.*?)[']/s;
     let regexpDoubleQuote = /TranslatedTextWidget\(.*?["](.*?)["]/s;
     let regMatch = regexpSingleQuote.exec(match) || regexpDoubleQuote.exec(match);
-    let matchResult = regMatch[1];
-    foundStrings.push(matchResult);
+    if(regMatch){
+      let matchResult = regMatch[1];
+      foundStrings.push(matchResult);
+    };
   }
 }
 

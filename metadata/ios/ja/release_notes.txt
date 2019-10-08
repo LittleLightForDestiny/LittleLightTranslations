@@ -1,5 +1,4 @@
-- landscape screen for item details
-- now perks and mods show exactly how much they changed each stat
-- shadowkeep changes
-- random perks and mods temporary disabled until I implement the new shadowkeep model
- 
+- removing begging links from iOS version
+- fixing some widgets that won't display properly
+- fixing some issues with steam migration
+
