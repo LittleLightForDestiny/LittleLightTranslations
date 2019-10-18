@@ -1,4 +1,7 @@
-- removing begging links from iOS version
-- fixing some widgets that won't display properly
-- fixing some issues with steam migration
+- re-added random rolls on collections
+- added energy cost and mod listing
+- stats for mods are more accurate
+- shadowkeep changes
+- readded ikora to vendors list
+- prioritized banshee in vendors list
 
