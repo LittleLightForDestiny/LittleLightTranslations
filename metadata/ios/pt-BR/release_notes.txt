@@ -1,7 +1,5 @@
-- readicionando rolls aleatórios nas coleções
-- adicionando custo de energia e listagem de mods
-- estatisticas agora estão mais precisas
-- mudanças para a shadowkeep
-- readicionado ikora na lista de vendedores
-- priorizando banshee na lista de vendedores
+- adding recoil stat graph
+- adding Total armor stats to icons and details
+- adding a quick refresh to make sure the app really needs to clean a space before making a transfer
+- adding quick transfers to consumable and mods
 

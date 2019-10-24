@@ -1,7 +1,5 @@
-- re-added random rolls on collections
-- added energy cost and mod listing
-- stats for mods are more accurate
-- shadowkeep changes
-- readded ikora to vendors list
-- prioritized banshee in vendors list
+- adding recoil stat graph
+- adding Total armor stats to icons and details
+- adding a quick refresh to make sure the app really needs to clean a space before making a transfer
+- adding quick transfers to consumable and mods
 
