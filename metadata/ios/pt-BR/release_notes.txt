@@ -1,5 +1,5 @@
-- adding recoil stat graph
-- adding Total armor stats to icons and details
-- adding a quick refresh to make sure the app really needs to clean a space before making a transfer
-- adding quick transfers to consumable and mods
+- adicionando grafico da direção de recuo nas armas
+- adicionando o total de stats das armaduras
+- adicionando uma atualização rapida para garantir que é realmente nescessário liberar espaço para um item novo
+- adicionando transferencia rapida para consumiveis e mods
 
