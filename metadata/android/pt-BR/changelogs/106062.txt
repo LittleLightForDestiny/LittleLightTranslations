@@ -1,0 +1,5 @@
+- adicionando grafico da direção de recuo nas armas
+- adicionando o total de stats das armaduras
+- adicionando uma atualização rapida para garantir que é realmente nescessário liberar espaço para um item novo
+- adicionando transferencia rapida para consumiveis e mods
+
