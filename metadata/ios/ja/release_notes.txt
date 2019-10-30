@@ -1,3 +1,1 @@
-- showing ornaments icons to reflect in-game changes
-- switching to new perks model (beta)
-
+- reusable perks are BACK!
