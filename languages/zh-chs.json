@@ -112,10 +112,10 @@
     "Ships": "飞船",
     "Val Ca'uor": "卡吾尔少将",
     "Kalli": "卡莉",
-    "Shuro Chi": "Shuro Chi",
+    "Shuro Chi": "秋露·知",
     "Morgeth": "莫格斯",
     "Vault Room": "保险库",
-    "Riven": "Riven",
+    "Riven": "魅痕",
     "Botza District": "柏特扎区",
     "Vault Access": "黑色军械库保险库",
     "Insurrection Prime": "暴动首领",
@@ -207,7 +207,7 @@
     "Energy Cost": "能量消耗",
     "View in Collections": "在收藏品中查看",
     "Total": "总计",
-    "Item notes": "Item notes",
-    "Add custom name": "Add custom name",
-    "Seasonal Rank {rank}": "Seasonal Rank {rank}"
+    "Item notes": "物品备注",
+    "Add custom name": "添加自定义名称",
+    "Seasonal Rank {rank}": "赛季等级 {rank}"
 }
