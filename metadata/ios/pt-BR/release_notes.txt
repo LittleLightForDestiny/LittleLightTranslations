@@ -1,2 +1,5 @@
-- auth quick fix
+- adding google stadia platform icon
+- removing inactive accounts from account menu
+- fixing delete language button
+- adding seasonal rank info
 
