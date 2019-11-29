@@ -8,7 +8,7 @@
     "No": "否",
     "Yes": "是",
     "Exit": "退出",
-    "Do you really want to exit Little Light?": "您确定要退出 Little Light吗?",
+    "Do you really want to exit Little Light?": "您确定要退出 Little Light 吗？",
     "Login": "登录",
     "Not logged in": "未登录",
     "Tap to Login": "轻触以登录",
@@ -202,9 +202,12 @@
     "Couldn&#39;t render this widget properly. Please report this to @LittleLightD2 on Twitter or via GitHub issues": "无法正确渲染该部件，请在推特上 @LittleLightD2 或通过 GitHub Issue 报告问题",
     "Evasion": "回避",
     "Summon": "召唤",
-    "Consecrated Mind": "崇敬精神",
-    "Sanctified Mind": "神圣精神",
+    "Consecrated Mind": "崇圣首脑",
+    "Sanctified Mind": "圣洁首脑",
     "Energy Cost": "能量消耗",
     "View in Collections": "在收藏品中查看",
-    "Total": "总计"
+    "Total": "总计",
+    "Item notes": "Item notes",
+    "Add custom name": "Add custom name",
+    "Seasonal Rank {rank}": "Seasonal Rank {rank}"
 }
