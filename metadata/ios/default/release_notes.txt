@@ -1,2 +1,2 @@
-- side-menu quickfix
+- fixing account wide quest progress
 
