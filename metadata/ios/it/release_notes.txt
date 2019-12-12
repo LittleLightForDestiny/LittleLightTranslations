@@ -1,2 +1,1 @@
-- fixing account wide quest progress
-
+- fixing power bonus from artifact

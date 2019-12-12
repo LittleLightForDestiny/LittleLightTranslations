@@ -1,2 +1,1 @@
-- consertando progresso de jornadas de conta
-
+- fixing power bonus from artifact
