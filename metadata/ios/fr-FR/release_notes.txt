@@ -1,1 +1,1 @@
-- fixing power bonus from artifact
+- adding searchable triumphs and collections
