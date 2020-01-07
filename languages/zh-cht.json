@@ -134,7 +134,7 @@
     "You aren't tracking any objectives yet. Add one from Triumphs or Pursuits.": "您還未跟蹤任何目標，從成就或任務中添加壹個吧。",
     "Rewards": "獎勵",
     "Expired": "已過期",
-    "Expires {timeFromNow}": "在 {timeFromNow} 后 過期",
+    "Expires {timeFromNow}": "在 {timeFromNow} 過期",
     "Loadouts": "配裝",
     "You have no loadouts yet. Create your first one.": "您還沒有配裝，請先創建壹個。",
     "Create Loadout": "創建配裝",
