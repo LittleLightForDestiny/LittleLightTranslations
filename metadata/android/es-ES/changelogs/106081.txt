@@ -1,0 +1,6 @@
+- adding wishlists support! thanks to the big minds at DIM for creating the stepping stones for this
+- adding triumphs step objectives progress (finally)
+- adding energy cost for mods in collection
+- a lot of fixes (and probably new broke stuff as well)
+- more fixes
+
