@@ -87,7 +87,7 @@
     "Pull": "Pegar",
     "Add to Loadout": "Adicionar ao Loadout",
     "Duplicates": "Items Repetidos",
-    "Stats": "Estatísticas",
+    "Stats": "Atributos",
     "Details": "Detalhes",
     "Modifiers": "Modificadores",
     "Lore": "História",
@@ -239,5 +239,5 @@
     "Trash": "Lixo",
     "Curated": "Bungie",
     "This item is considered an uncategorized godroll.": "Esse item é considerado um godroll, mas não foi adicionada uma categoria a ele.",
-    "Stats Total": "Stats Total"
+    "Stats Total": "Total de atributos"
 }
