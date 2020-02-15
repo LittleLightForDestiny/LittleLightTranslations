@@ -236,6 +236,8 @@
     "Update": "Aggiorna",
     "PvE": "PvE",
     "PvP": "PvP",
-    "Trash": "Trash",
-    "Curated": "Curated"
+    "Trash": "Spazzatura",
+    "Curated": "Curato",
+    "This item is considered an uncategorized godroll.": "This item is considered an uncategorized godroll.",
+    "Stats Total": "Stats Total"
 }
