@@ -239,5 +239,17 @@
     "Trash": "Lixo",
     "Curated": "Bungie",
     "This item is considered an uncategorized godroll.": "Esse item é considerado um godroll, mas não foi adicionada uma categoria a ele.",
-    "Stats Total": "Total de atributos"
+    "Stats Total": "Total de atributos",
+    "None": "None",
+    "Cosmetics": "Cosmetics",
+    "Include powerless items": "Include powerless items",
+    "This perk is considered the best for both PvE and PvP on this item.": "This perk is considered the best for both PvE and PvP on this item.",
+    "This perk is considered the best for PvE on this item.": "This perk is considered the best for PvE on this item.",
+    "This perk is considered the best for PvP on this item.": "This perk is considered the best for PvP on this item.",
+    "This item is considered a good roll for both PvE and PvP.": "This item is considered a good roll for both PvE and PvP.",
+    "This item is considered a good roll for PVE.": "This item is considered a good roll for PVE.",
+    "This item is considered a good roll for PVP.": "This item is considered a good roll for PVP.",
+    "PvE godroll": "PvE godroll",
+    "PvP godroll": "PvP godroll",
+    "Uncategorized": "Uncategorized"
 }
