@@ -1,1 +1,3 @@
-- emergency fix for some users that were not able to update app data.
+- revamped search
+- new wishlist tags (godpvp and godpve, reserved for the best versions of a weapon)
+- new wishlist format
