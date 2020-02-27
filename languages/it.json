@@ -240,9 +240,9 @@
     "Curated": "Curato",
     "This item is considered an uncategorized godroll.": "Questo oggetto è considerato un god roll senza categoria.",
     "Stats Total": "Totale statistiche",
-    "None": "None",
-    "Cosmetics": "Cosmetics",
-    "Include powerless items": "Include powerless items",
+    "None": "Nessuno",
+    "Cosmetics": "Cosmetico",
+    "Include powerless items": "Includi oggetti senza potere",
     "This perk is considered the best for both PvE and PvP on this item.": "This perk is considered the best for both PvE and PvP on this item.",
     "This perk is considered the best for PvE on this item.": "This perk is considered the best for PvE on this item.",
     "This perk is considered the best for PvP on this item.": "This perk is considered the best for PvP on this item.",
@@ -251,5 +251,5 @@
     "This item is considered a good roll for PVP.": "This item is considered a good roll for PVP.",
     "PvE godroll": "PvE godroll",
     "PvP godroll": "PvP godroll",
-    "Uncategorized": "Uncategorized"
+    "Uncategorized": "Senza categoria"
 }
