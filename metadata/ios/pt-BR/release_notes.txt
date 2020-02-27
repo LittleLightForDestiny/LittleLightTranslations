@@ -1,3 +1,2 @@
-- revamped search
-- new wishlist tags (godpvp and godpve, reserved for the best versions of a weapon)
-- new wishlist format
+- search fix
+
