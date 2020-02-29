@@ -251,5 +251,12 @@
     "This item is considered a good roll for PVP.": "Este equipo se considera una buena tirada para PvP.",
     "PvE godroll": "Godroll PvE",
     "PvP godroll": "Godroll PvP",
-    "Uncategorized": "Sin categoría"
+    "Uncategorized": "Sin categoría",
+    "Tap to select": "Tap to select",
+    "Tapping on items will select them for quick transfer and equip instead of opening details": "Tapping on items will select them for quick transfer and equip instead of opening details",
+    "Item Locked": "Item Locked",
+    "Item Unlocked": "Item Unlocked",
+    "Unlock": "Unlock",
+    "Lock": "Lock",
+    "Double tap for details": "Double tap for details"
 }
