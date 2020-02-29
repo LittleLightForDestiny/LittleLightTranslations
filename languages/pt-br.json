@@ -252,11 +252,11 @@
     "PvE godroll": "godroll PvE",
     "PvP godroll": "godroll PvP",
     "Uncategorized": "Não categorizado",
-    "Tap to select": "Tap to select",
-    "Tapping on items will select them for quick transfer and equip instead of opening details": "Tapping on items will select them for quick transfer and equip instead of opening details",
-    "Item Locked": "Item Locked",
-    "Item Unlocked": "Item Unlocked",
-    "Unlock": "Unlock",
-    "Lock": "Lock",
-    "Double tap for details": "Double tap for details"
+    "Tap to select": "Toque para selecionar",
+    "Tapping on items will select them for quick transfer and equip instead of opening details": "Tocar nos itens irá selecioná-los para transferência rápida ao invés de abrir os detalhes",
+    "Item Locked": "Item Travado",
+    "Item Unlocked": "Item Destravado",
+    "Unlock": "Destravar",
+    "Lock": "Travar",
+    "Double tap for details": "Duplo toque para detalhes"
 }
