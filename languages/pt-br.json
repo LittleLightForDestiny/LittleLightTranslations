@@ -251,5 +251,12 @@
     "This item is considered a good roll for PVP.": "Esse item é considerado uma boa variação para PvP.",
     "PvE godroll": "godroll PvE",
     "PvP godroll": "godroll PvP",
-    "Uncategorized": "Não categorizado"
+    "Uncategorized": "Não categorizado",
+    "Tap to select": "Toque para selecionar",
+    "Tapping on items will select them for quick transfer and equip instead of opening details": "Tocar nos itens irá selecioná-los para transferência rápida ao invés de abrir os detalhes",
+    "Item Locked": "Item Travado",
+    "Item Unlocked": "Item Destravado",
+    "Unlock": "Destravar",
+    "Lock": "Travar",
+    "Double tap for details": "Duplo toque para detalhes"
 }

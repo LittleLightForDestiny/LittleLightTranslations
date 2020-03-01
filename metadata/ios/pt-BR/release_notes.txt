@@ -1,2 +1,3 @@
-- search fix
-
+- adding lock and unlock for items
+- adding tap to select setting
+- bug fixes
