@@ -259,9 +259,10 @@
     "Unlock": "Destravar",
     "Lock": "Travar",
     "Double tap for details": "Duplo toque para detalhes",
-    "Masterwork Status": "Masterwork Status",
-    "Stat": "Stat",
-    "Sort": "Sort",
-    "Active Sorters": "Active Sorters",
-    "Available Sorters": "Available Sorters"
+    "Masterwork Status": "Status Obra-prima",
+    "Stat": "Atributo",
+    "Sort": "Ordenar",
+    "Active Sorters": "Ordernadores Ativos",
+    "Available Sorters": "Ordenadores Disponíveis",
+    "Select Stat": "Select Stat"
 }
