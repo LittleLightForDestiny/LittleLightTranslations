@@ -258,5 +258,10 @@
     "Item Unlocked": "Item Unlocked",
     "Unlock": "Unlock",
     "Lock": "Lock",
-    "Double tap for details": "Double tap for details"
+    "Double tap for details": "Double tap for details",
+    "Masterwork Status": "Masterwork Status",
+    "Stat": "Stat",
+    "Sort": "Sort",
+    "Active Sorters": "Active Sorters",
+    "Available Sorters": "Available Sorters"
 }
