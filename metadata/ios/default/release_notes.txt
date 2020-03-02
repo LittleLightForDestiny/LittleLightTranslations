@@ -1,3 +1,2 @@
-- adding lock and unlock for items
-- adding tap to select setting
-- bug fixes
+- fixes in multiselect
+- adding alternate perks on duplicates
