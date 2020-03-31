@@ -258,11 +258,15 @@
     "Item Unlocked": "Item Unlocked",
     "Unlock": "Unlock",
     "Lock": "Lock",
-    "Double tap for details": "双击查看详情",
+    "Double tap for details": "Double tap for details",
     "Masterwork Status": "Masterwork Status",
     "Stat": "Stat",
     "Sort": "Sort",
     "Active Sorters": "Active Sorters",
     "Available Sorters": "Available Sorters",
-    "Select Stat": "Select Stat"
+    "Select Stat": "Select Stat",
+    "Go for powerful/pinnacle reward?": "Go for powerful/pinnacle reward?",
+    "Current average": "Current average",
+    "Achievable average": "Achievable average",
+    "Under average slots": "Under average slots"
 }
