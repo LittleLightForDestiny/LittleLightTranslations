@@ -1,5 +1,5 @@
-- adicionando otimizador de loot no menu do fantasma
-- corrigindo ordenadores de busca
-- corrigindo erros de renderização
-- removendo todas as bandeiras pq cansa ser envolvido em problemas politicos de outros paises
+- adding more search filters
+- adding a background on items perks for quick checking wishlists
+- fixing an old bug that was showing wrong perks on duplicates
+- adding progress to stepped triumphs
 

@@ -1,5 +1,5 @@
-- added loot optimizer to ghost menu
-- fixing item sorters
-- fixing render issue on ranks screen
-- removing all flags because I'm tired of being involved on other countries politics
+- adding more search filters
+- adding a background on items perks for quick checking wishlists
+- fixing an old bug that was showing wrong perks on duplicates
+- adding progress to stepped triumphs
 
