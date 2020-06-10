@@ -1,2 +1,5 @@
-- fixes to loadout helmet and ghost search
+- adding missing eververse category on vendors
+- adding power cap filter
+- adding emblem preview on item details
+- prioritizing bright dust items on vendors
 
