@@ -1,5 +1,3 @@
-- adding missing eververse category on vendors
-- adding power cap filter
-- adding emblem preview on item details
-- prioritizing bright dust items on vendors
-
+- fixing cursed click sound on iOS
+- trying some network issues fix
+- adding formatting on objectives
