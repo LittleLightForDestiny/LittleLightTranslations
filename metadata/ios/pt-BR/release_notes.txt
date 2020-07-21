@@ -1,4 +1,2 @@
-- adding loadout item info before removing from loadout
-- adding loadout info on item details
-- adding loadout filters to search screen
-- adding item text search by loadout name
+- fixed edit loadout layout on phone
+
