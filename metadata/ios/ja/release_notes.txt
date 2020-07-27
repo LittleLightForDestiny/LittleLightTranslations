@@ -1,2 +1,2 @@
-- fixed edit loadout layout on phone
+- small fixes
 
