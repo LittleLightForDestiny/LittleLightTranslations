@@ -282,12 +282,12 @@
     "Popular Wishlists": "Listas de deseos populares",
     "Wishlist Source": "Origen de lista de deseos",
     "To create your own wishlists, please check:": "Para crear tus propias listas de deseos, por favor visite:",
-    "Item Notes": "Item Notes",
-    "Item Tags": "Item Tags",
-    "Nickname": "Nickname",
-    "Not set": "Not set",
-    "No notes added yet": "No notes added yet",
-    "Add Tag": "Add Tag",
-    "Set nickname": "Set nickname",
-    "Set item notes": "Set item notes"
+    "Item Notes": "Notas del objeto",
+    "Item Tags": "Etiquetas del objeto",
+    "Nickname": "Apodo",
+    "Not set": "No establecido",
+    "No notes added yet": "No hay notas añadidas",
+    "Add Tag": "Añadir nota",
+    "Set nickname": "Establecer apodo",
+    "Set item notes": "Establecer notas al objeto"
 }
