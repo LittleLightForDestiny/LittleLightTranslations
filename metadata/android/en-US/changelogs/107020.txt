@@ -2,4 +2,3 @@
 - adding item notes
 - adding item nicknames
 
-

@@ -1,2 +1,5 @@
-- small fixes
+- adding item tags
+- adding item notes
+- adding item nicknames
+
 
