@@ -2,7 +2,7 @@
 Translation files and scripts to generate translation files for Little Light
 
 ### Want to help translate Little Light to your language?
-- Go to www.crowdin.com and sing up.
+- Go to www.crowdin.com and sign up.
 - Complete your profile with your languages and mark the native.
 - Go to https://crowdin.com/project/little-light, choose your language and request to join the project.
 - Once approved you can suggest translations at your own pace with the editor that incorporates the web.
