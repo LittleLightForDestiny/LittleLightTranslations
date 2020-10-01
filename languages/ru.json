@@ -123,7 +123,7 @@
     "Infiltration": "Проникновение",
     "Deception": "Лик",
     "Gahlran": "Галран",
-    "Pursuits": "Спецзадания",
+    "Pursuits": "Поручения",
     "From the questline": "Из квестовой линии",
     "Quest steps": "Этапы квеста",
     "View next steps": "Посмотреть следующие этапы",
@@ -302,5 +302,10 @@
     "Infuse": "Синтез",
     "Tag name": "Название тега",
     "Untitled": "Без названия",
-    "Priority Tags": "Priority Tags"
+    "Priority Tags": "Priority Tags",
+    "Hidden": "Hidden",
+    "Only Equipped": "Only Equipped",
+    "Large": "Large",
+    "Medium": "Medium",
+    "Small": "Small"
 }
