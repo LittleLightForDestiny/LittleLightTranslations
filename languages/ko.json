@@ -303,9 +303,9 @@
     "Tag name": "Tag name",
     "Untitled": "Untitled",
     "Priority Tags": "Priority Tags",
-    "Hidden": "Hidden",
-    "Only Equipped": "Only Equipped",
-    "Large": "Large",
-    "Medium": "Medium",
-    "Small": "Small"
+    "Hidden": "숨기기",
+    "Only Equipped": "장비된 것만",
+    "Large": "크게",
+    "Medium": "보통",
+    "Small": "작게"
 }
