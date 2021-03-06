@@ -1,3 +1,0 @@
-- fixed search ordering
-- made the search more flexible (now you can search for "enhanced sniper" and it will find "enhanced unflinching sniper aim" for example
- 

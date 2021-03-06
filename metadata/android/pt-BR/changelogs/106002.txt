@@ -1,1 +1,0 @@
-- corrigindo um pequeno que erro que não permitia seguir as quests das armas pinaculo

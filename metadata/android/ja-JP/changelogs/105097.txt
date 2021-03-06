@@ -1,1 +1,0 @@
-- fixing the swapped equip/transfer loadouts buttons because I'm stupid

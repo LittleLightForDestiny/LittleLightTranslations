@@ -1,1 +1,0 @@
-- Arreglado un pequeño fallo al intentar seguir aventuras de armas pinaculo

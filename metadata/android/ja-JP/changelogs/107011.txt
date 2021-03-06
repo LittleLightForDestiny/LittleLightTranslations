@@ -1,2 +1,0 @@
-- fixed edit loadout layout on phone
-

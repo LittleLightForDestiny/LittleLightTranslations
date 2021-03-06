@@ -1,7 +1,0 @@
-- re-added random rolls on collections
-- added energy cost and mod listing
-- stats for mods are more accurate
-- shadowkeep changes
-- readded ikora to vendors list
-- prioritized banshee in vendors list
-

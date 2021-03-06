@@ -1,2 +1,0 @@
-- adicionando layout em modo retrato para seção de equipamento
-- adicionando novas traduções

@@ -1,7 +1,0 @@
-- adicionando modo de reorganizar loadouts
-- adicionando busca de loadouts
-- adicionando botão 'adicionar ao loadout' nos detalhes de item
-- redesign da tela de marcos e empreitadas
-- redesign das coleções
-- adicionando recompensas nos detalhes de item
-

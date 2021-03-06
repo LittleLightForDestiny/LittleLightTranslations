@@ -1,4 +1,0 @@
-- removing begging links from iOS version
-- fixing some widgets that won't display properly
-- fixing some issues with steam migration
-

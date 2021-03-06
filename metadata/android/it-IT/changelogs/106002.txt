@@ -1,1 +1,0 @@
-- fixing a small bug when trying to track pinnacle weapons quests

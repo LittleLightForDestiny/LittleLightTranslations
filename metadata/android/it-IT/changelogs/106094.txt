@@ -1,3 +1,0 @@
-- adding more sorting parameters (masterwork status and damage type)
-- adding sort options to search
-- bug fixes on multiselect

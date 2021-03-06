@@ -1,5 +1,0 @@
-- added loot optimizer to ghost menu
-- fixing item sorters
-- fixing render issue on ranks screen
-- removing all flags because I'm tired of being involved on other countries politics
-

@@ -1,4 +1,0 @@
-- adicionando uma opção para trocar a ordem dos personagens
-- adicionando uma opção para ordernar as empreitadas
-- correções nas estatisticas das armas
-- correções nos perks

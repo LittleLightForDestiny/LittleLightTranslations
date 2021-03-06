@@ -1,4 +1,0 @@
-- adding more info on rolls when selecting items
-- adding sunset info to items overview
-- adding armor stats to item overview
-- fixing some season info being displayed wrong

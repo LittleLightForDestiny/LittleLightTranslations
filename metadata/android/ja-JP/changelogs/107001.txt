@@ -1,5 +1,0 @@
-- adding more search filters
-- adding a background on items perks for quick checking wishlists
-- fixing an old bug that was showing wrong perks on duplicates
-- adding progress to stepped triumphs
-

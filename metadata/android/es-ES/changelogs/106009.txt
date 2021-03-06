@@ -1,2 +1,0 @@
-- Arreglado problemas de rendimiento en las busquedas
-- Arreglado el guardado de preferencia de ordenación de items y contratos

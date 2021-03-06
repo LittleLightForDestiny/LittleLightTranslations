@@ -1,2 +1,0 @@
-- Añadido auto refresco a triunfos
-- Añadido contador de completado a triunfos/colecciones

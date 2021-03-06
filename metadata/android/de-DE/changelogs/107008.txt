@@ -1,3 +1,0 @@
-- fixing cursed click sound on iOS
-- trying some network issues fix
-- adding formatting on objectives

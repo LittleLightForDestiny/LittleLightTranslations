@@ -1,5 +1,0 @@
-- adicionando suporte para listas de desejos! Grande parte graças ao pessoal do DIM™️ que criaram os passos iniciais para isso
-- adicionado progresso parcial dos triunfos (finalmente!)
-- adicionando custos de energia nos mods das coleções
-- várias e várias correções (e provavelmente alguns bugzinhos novos tb)
-- mais correções

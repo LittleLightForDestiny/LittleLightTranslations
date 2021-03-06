@@ -1,2 +1,0 @@
-- adding landscape layouts for equipment
-- adding new translations

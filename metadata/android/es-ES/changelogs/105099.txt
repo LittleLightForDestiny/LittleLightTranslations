@@ -1,2 +1,0 @@
-- Añadido contador de muertes en los detalles de armas obras maestras
-- Añadido en ajustes multiples opciones para ordenar el equipo

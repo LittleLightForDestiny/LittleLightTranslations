@@ -1,4 +1,0 @@
-- added an option to select the order your characters are displayed on
-- added an option to order pursuits
-- fixes to stats
-- fixes to perks 

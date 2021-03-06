@@ -1,3 +1,0 @@
-- improved collections and triumphs views
-- improved duplicated items views
-- testing a (possibly) faster transfer engine

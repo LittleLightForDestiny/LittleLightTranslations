@@ -1,5 +1,0 @@
-- Multi-account support
-- Fixed an issue where users weren't able to see their inventory
-- Fixed an issue with seals not being displayed
-- Added damage types to collections
-- Adding a Supporter section on credits for Patreon Supporters (yay! thanks Smartypaws and whitekenyan03)

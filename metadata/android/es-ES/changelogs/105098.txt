@@ -1,2 +1,0 @@
-- Añadido detalles de perks y modificadores
-- Ahora puedes seguir el progreso de los catalizadores =)

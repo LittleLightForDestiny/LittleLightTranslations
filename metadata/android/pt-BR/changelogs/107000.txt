@@ -1,4 +1,0 @@
-- adicionando otimizador de loot no menu do fantasma
-- corrigindo ordenadores de busca
-- corrigindo erros de renderização
-- removendo todas as bandeiras pq cansa ser envolvido em problemas politicos de outros paises

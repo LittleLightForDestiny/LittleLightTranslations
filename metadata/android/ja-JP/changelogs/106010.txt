@@ -1,2 +1,0 @@
-- added chalice recipes =)
-- minor interface improvements towards tablet users

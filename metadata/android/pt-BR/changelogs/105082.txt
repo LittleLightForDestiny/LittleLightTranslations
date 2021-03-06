@@ -1,2 +1,0 @@
-- adicionando atualização automática para os triunfos
-- adicionando contagem de progresso dos triunfos/coleções

@@ -1,4 +1,0 @@
-- adding item tags
-- adding item notes
-- adding item nicknames
-

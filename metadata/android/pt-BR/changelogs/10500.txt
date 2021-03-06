@@ -1,3 +1,0 @@
-- ajustes de layout
-- adicionando busca por perks
-- corrigindo alguns problemas na imagem de compartilhamento

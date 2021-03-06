@@ -1,2 +1,0 @@
-- Añadido iconos de perks y modificadores
-- Está algo desordenado, se arreglará más adelante

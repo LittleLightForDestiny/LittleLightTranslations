@@ -1,2 +1,0 @@
-- fixed search performance issues
-- fixed item and pursuit ordering settings persistence

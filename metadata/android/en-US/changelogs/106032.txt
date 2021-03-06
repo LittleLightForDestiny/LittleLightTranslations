@@ -1,2 +1,0 @@
-- adding vendors
-- removing vendors that have no items to sell

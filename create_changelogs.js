@@ -3,6 +3,8 @@ let inquirer = require('inquirer');
 let fs = require('fs-extra');
 let languages = ["de-DE","en-US","es-ES","fr-FR","it-IT","ja-JP","pt-BR"];
 let iosLanguages = ["de-DE","es-ES","fr-FR","it","ja","pt-BR"];
+let dotenv = require('dotenv');
+dotenv.config();
 
 async function run(){
   var answers = await inquirer.prompt([{

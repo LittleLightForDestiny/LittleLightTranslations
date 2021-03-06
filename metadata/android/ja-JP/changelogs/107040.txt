@@ -1,4 +1,0 @@
-- adding per bucket display options
-- moving stuff on pursuits a bit
-- finally fixing an age old bug on pursuits
-- adding completed mark for pursuits

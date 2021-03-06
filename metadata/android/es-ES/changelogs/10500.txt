@@ -1,3 +1,0 @@
-- Se han movido un poco algunas cosas
-- Añadida busqueda de perks
-- Arreglado un fallo al compartir imagenes

@@ -1,5 +1,0 @@
-- improved collections and triumphs views
-- improved duplicated items views
-- adding priority tags (items with these tags will show first on search)
-- adding tags to vault view
-- fixing an age old issue with refreshes failing

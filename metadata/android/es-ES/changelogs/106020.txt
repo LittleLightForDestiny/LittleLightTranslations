@@ -1,2 +1,0 @@
-- Añadida transferencia rápida (pulsar un hueco vacío abrirar la ventana de búsqueda)
-- Eliminada información de caducidad en las Aventuras ya completadas

@@ -1,3 +1,0 @@
-- Arreglado un error molesto que mostraba una descompresión indefinidamente
-- Arreglado un error con "Duerme, bebé" y otras aventuras de armas pinaculo que no mostraban su progreso
-

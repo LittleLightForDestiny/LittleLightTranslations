@@ -1,7 +1,0 @@
-- adding loadout ordering
-- adding loadout search
-- adding 'add to loadout' button on item details
-- revamp on milestones and pursuits
-- revamp on collections
-- adding rewards for quests and bounties
-

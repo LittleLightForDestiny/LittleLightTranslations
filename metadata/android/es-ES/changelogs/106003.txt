@@ -1,4 +1,0 @@
-- Añadida la opción para seleccionar el orden en que se muestran tus personajes
-- Añadida la opción para ordenar los contratos
-- Arreglos a estadísticas de equipo
-- Arreglos a perks de equipo

@@ -1,5 +1,0 @@
-- Suporte a multiplas contas
-- Corrigindo um problema em que alguns usuários não conseguiam ver nada na tela
-- Corrigindo um problema em que os selos não estavam sendo exibidos
-- Adicionando exibicão de tipos de dano nas armas da coleção
-- Adicionando uma seção de apoiadores nos créditos para os doadores no Patreon

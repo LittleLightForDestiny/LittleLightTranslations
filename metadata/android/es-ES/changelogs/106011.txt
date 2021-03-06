@@ -1,3 +1,0 @@
-- Arreeglado error con las combinaciones de fusiles de fusión
-- Arreglado algunos error de equipos de máximo poder (espero que todos)
-- Añadida la opción "Espacios libres" cuando equipas conjuntos con el menú rápido

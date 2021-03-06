@@ -1,3 +1,0 @@
-- masterwork kill counter on item details
-- multiple parameters for item sorting in settings
-

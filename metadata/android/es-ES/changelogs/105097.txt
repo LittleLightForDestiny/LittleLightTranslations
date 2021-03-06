@@ -1,2 +1,0 @@
-- Arreglado el intercambio de botones para equipar/transferir conjuntos por un despiste.
-NT: (original text: fixing the swapped equip/transfer loadouts buttons because I'm stupid)

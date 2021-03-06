@@ -1,3 +1,0 @@
-- fixing some render issues
-- adding new translations for chinese (traditional and simplified)
-- adding armor elemental alignment to armor in vendors

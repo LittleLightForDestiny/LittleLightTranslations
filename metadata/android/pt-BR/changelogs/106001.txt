@@ -1,4 +1,0 @@
-- corrigindo o maldito bug da barrinha de descompressão infinita
-- corrigindo um erro em que a nana nenem não mostrava progresso (nem outras quests de armas pinaculo)
-
-

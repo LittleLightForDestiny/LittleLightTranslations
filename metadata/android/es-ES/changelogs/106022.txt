@@ -1,4 +1,0 @@
-- Arreglado un error que evita que un equipo no se equipe si solo tuviera objetos excepcionales en su inventario.
-- Añadida una opción para ordenar tus artículos por personaje.
-- Añadida una opción para establecer el número predeterminado de huecos libres cuando se equipan Conjuntos.
-- Arreglado un error al equipar el conjunto de máxima poder disponible.

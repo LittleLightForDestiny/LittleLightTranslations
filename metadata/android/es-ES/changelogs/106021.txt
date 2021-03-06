@@ -1,1 +1,0 @@
-- Eliminada apertura automática del teclado en las transferencias rápidas.
