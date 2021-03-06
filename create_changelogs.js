@@ -1,12 +1,14 @@
 
 let inquirer = require('inquirer');
 let fs = require('fs-extra');
-let languages = ["de-DE","en-US","es-ES","fr-FR","it-IT","ja-JP","pt-BR"];
+let androidLanguages = ["de-DE","en-US","es-ES","fr-FR","it-IT","ja-JP","pt-BR"];
 let iosLanguages = ["default","de-DE","es-ES","fr-FR","it","ja","pt-BR"];
+let macosLanguages = ["default","de-DE","es-ES","fr-FR","it","ja","pt-BR"];
 let dotenv = require('dotenv');
 dotenv.config();
 let androidMetadataPath = process.env.ANDROID_METADATA_PATH || "metadata/android";
 let iosMetadataPath = process.env.IOS_METADATA_PATH || "metadata/ios";
+let macosMetadataPath = process.env.MACOS_METADATA_PATH || "metadata/macos";
 let flutterRoot = process.env.FLUTTER_PROJECT_ROOT || "../";
 
 async function getPubspecVersion(){
@@ -33,7 +35,7 @@ async function run(){
 
   let package_version = answers.package_version.replace(/\./g, '0');
   
-  languages.forEach((language)=>{
+  androidLanguages.forEach((language)=>{
     let androidDirPath = `${androidMetadataPath}/${language}/changelogs`;
     if(!fs.existsSync(androidDirPath)){
       fs.mkdirpSync(androidDirPath);
@@ -49,6 +51,15 @@ async function run(){
     }
     let iosLanguagePath = `${iosDirPath}/release_notes.txt`;
     fs.writeFile(iosLanguagePath, answers.file_contents);
+  });
+
+  macosLanguages.forEach((language)=>{
+    let macosDirPath = `${macosMetadataPath}/${language}`;
+    if(!fs.existsSync(macosDirPath)){
+      fs.mkdirpSync(macosDirPath);
+    }
+    let macosLanguagePath = `${macosDirPath}/release_notes.txt`;
+    fs.writeFile(macosLanguagePath, answers.file_contents);
   });
 }
 
