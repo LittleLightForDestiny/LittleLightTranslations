@@ -2,7 +2,7 @@
 let inquirer = require('inquirer');
 let fs = require('fs-extra');
 let androidLanguages = ["de-DE","en-US","es-ES","fr-FR","it-IT","ja-JP","pt-BR"];
-let iosLanguages = ["default","de-DE","es-ES","fr-FR","it","ja","pt-BR"];
+let iosLanguages = ["default","en-US","de-DE","es-ES","fr-FR","it","ja","pt-BR"];
 let macosLanguages = ["default","de-DE","es-ES","fr-FR","it","ja","pt-BR"];
 let dotenv = require('dotenv');
 dotenv.config();
