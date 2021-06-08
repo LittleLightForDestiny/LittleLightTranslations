@@ -280,7 +280,7 @@
     "Local File": "本地文件",
     "Link": "链接",
     "Popular Wishlists": "热门愿望清单",
-    "Wishlist Source": "Wishlist Source",
+    "Wishlist Source": "愿望单来源",
     "To create your own wishlists, please check:": "想创建自己的愿望单吗？请查看：",
     "Item Notes": "物品备注",
     "Item Tags": "物品标签",
@@ -308,6 +308,6 @@
     "Large": "大",
     "Medium": "中",
     "Small": "小",
-    "Wishlist Builds": "Wishlist Builds",
-    "Please re-authorize Little Light to keep using inventory management features": "Please re-authorize Little Light to keep using inventory management features"
+    "Wishlist Builds": "愿望单的组合表",
+    "Please re-authorize Little Light to keep using inventory management features": "请重新授权 Little Light 以继续使用仓库管理功能"
 }
