@@ -61,7 +61,7 @@
     "Expiration Date": "Data di scadenza",
     "Group": "Gruppo",
     "Last played {timeago}": "Giocato l'ultima volta {timeago}",
-    "Updating": "Aggiornando",
+    "Updating": "Aggiornamento",
     "Update failed": "Aggiornamento fallito",
     "Transferring": "Trasferendo",
     "Transfer failed": "Trasferimento fallito",
@@ -309,5 +309,5 @@
     "Medium": "Medio",
     "Small": "Piccolo",
     "Wishlist Builds": "Wishlist Builds",
-    "Please re-authorize Little Light to keep using inventory management features": "Please re-authorize Little Light to keep using inventory management features"
+    "Please re-authorize Little Light to keep using inventory management features": "Si prega di ri-autorizzare Little Light per continuare a utilizzare le funzionalità di gestione dell'inventario"
 }
