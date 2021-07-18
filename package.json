@@ -2,15 +2,15 @@
   "name": "littlelight-translatedtext-finder",
   "version": "1.0.0",
   "description": "A tool to find strings that needs translation on little light",
-  "main": "index.js",
   "scripts": {
-    "start": "node index.js",
-    "changelogs": "node create_changelogs.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "import": "node ./.scripts/import-missing-strings.js",
+    "changelogs": "node ./.scripts/create-changelogs.js",
+    "cache:clean": "node ./.scripts/clean-cache.js"
   },
   "author": "João Paulo Marquesini",
   "license": "ISC",
   "dependencies": {
+    "axios": "^0.21.1",
     "dotenv": "^8.2.0",
     "find-in-files": "^0.5.0",
     "fs-extra": "^7.0.1"
