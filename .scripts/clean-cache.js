@@ -11,7 +11,7 @@ async function run() {
 
 async function clean(filename) {
     console.log(`cleaning cache for ${filename}`)
-    const url = `https://cdn.jsdelivr.net/gh/LittleLightForDestiny/LittleLightTranslations/languages/${filename}`;
+    const url = `https://purge.jsdelivr.net/gh/LittleLightForDestiny/LittleLightTranslations/languages/${filename}`;
     const result = await axios.get(url);
     console.log(result.data);
 }
