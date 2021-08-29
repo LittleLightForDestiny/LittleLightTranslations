@@ -73,7 +73,7 @@
     "Random Weapons": "무작위 무기",
     "Random Armor": "무작위 방어구",
     "Weapons": "무기",
-    "Equipped": "장착된 장비 포함",
+    "Equipped": "장착된 장비만 포함",
     "Pull everything from postmaster": "우편함에서 전부 꺼내기",
     "Equipment": "장비",
     "Weapon": "무기",
@@ -309,5 +309,5 @@
     "Medium": "보통",
     "Small": "작게",
     "Wishlist Builds": "Wishlist Builds",
-    "Please re-authorize Little Light to keep using inventory management features": "Please re-authorize Little Light to keep using inventory management features"
+    "Please re-authorize Little Light to keep using inventory management features": "Little Light가 계속 재고관리기능을 사용할 수 있도록 재승인해주십시오."
 }
