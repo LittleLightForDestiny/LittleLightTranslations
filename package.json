@@ -10,7 +10,7 @@
   "author": "João Paulo Marquesini",
   "license": "ISC",
   "dependencies": {
-    "axios": "^0.21.1",
+    "axios": "^0.21.2",
     "dotenv": "^8.2.0",
     "find-in-files": "^0.5.0",
     "fs-extra": "^7.0.1"
