@@ -357,5 +357,8 @@
     "Check @LittleLightD2": "Check @LittleLightD2",
     "Retry download": "Retry download",
     "Render Error": "Render Error",
-    "Report": "Report"
+    "Report": "Report",
+    "Try to do this while on orbit, a social space or offline": "Try to do this while on orbit, a social space or offline",
+    "Can't equip on combat zones": "Can't equip on combat zones",
+    "Can't apply on combat zones": "Can't apply on combat zones"
 }
