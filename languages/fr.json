@@ -328,7 +328,7 @@
     "Clear app data": "Effacer les données de l'application",
     "Exit app": "Quitter l'application",
     "Load wishlist": "Charger une liste de souhaits",
-    "Error loading wishlist file. Please make sure you're pointing to a raw json file using the Little Light wishlist format": "Error loading wishlist file. Please make sure you're pointing to a raw json file using the Little Light wishlist format",
+    "Error loading wishlist file. Please make sure you're pointing to a raw json file using the Little Light wishlist format": "Erreur lors du chargement du fichier de la liste de souhaits. Veuillez vous assurer que vous pointez vers un fichier json brut en utilisant le format de liste de souhaits Petite Lumière",
     "Add wishlist": "Ajouter une liste de souhaits",
     "To use these wishlists on Little Light, you will need to export them as json and publish it somewhere (github.com for example), and then paste the url to raw file on the field below:": "Pour utiliser ces listes de souhaits sur Petite Lumière, vous devrez les exporter en json et les publier quelque part (github.com par exemple), puis collez l'url vers le fichier brut dans le champ ci-dessous :",
     "You can add community curated wishlists (or your custom ones) on Little Light to check your rolls.": "Vous pouvez ajouter des listes de souhaits élaborées par la communauté (ou vos listes personnalisées) sur Petite Lumière pour vérifier vos rolls.",
@@ -361,7 +361,7 @@
     "Try to do this while on orbit, a social space or offline": "Essayez de faire cela en orbite, dans un espace social ou hors ligne",
     "Can't equip on combat zones": "Impossible d'équiper dans les zones de combat",
     "Can't apply on combat zones": "Impossible d'appliquer dans les zones de combat",
-    "This perk isn't available on the current season anymore": "This perk isn't available on the current season anymore",
-    "Couldn't find playable Destiny 2 characters on your account.": "Couldn't find playable Destiny 2 characters on your account.",
-    "Please make sure you're using the same account you use to play Destiny 2 and the correct platform.": "Please make sure you're using the same account you use to play Destiny 2 and the correct platform."
+    "This perk isn't available on the current season anymore": "Cet attribut n'est plus disponible pour la saison en cours",
+    "Couldn't find playable Destiny 2 characters on your account.": "Impossible de trouver des personnages jouables de Destiny 2 sur votre compte.",
+    "Please make sure you're using the same account you use to play Destiny 2 and the correct platform.": "Assurez-vous d'utiliser le même compte que celui que vous utilisez pour jouer à Destiny 2 et la bonne plateforme."
 }
