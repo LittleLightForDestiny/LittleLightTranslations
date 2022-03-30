@@ -60,7 +60,7 @@
     "Order pursuits by": "ハントの並べ替え",
     "Expiration Date": "有効期限の順",
     "Group": "グループの順",
-    "Last played {timeago}": "{timeago} 前にプレイした",
+    "Last played {timeago}": "最後にプレイしたのは {timeago}",
     "Updating": "更新中",
     "Update failed": "更新に失敗しました。",
     "Transferring": "転送中",
