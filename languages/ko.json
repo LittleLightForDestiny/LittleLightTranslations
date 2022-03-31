@@ -361,5 +361,8 @@
     "Can't apply on combat zones": "전투 지역에는 적용할 수 없습니다",
     "This perk isn't available on the current season anymore": "이 특전은 현재 시즌에서 더 이상 사용할 수 없습니다",
     "Couldn't find playable Destiny 2 characters on your account.": "계정에서 재생할 수 있는 Destiny2 캐릭터를 찾을 수 없습니다.",
-    "Please make sure you're using the same account you use to play Destiny 2 and the correct platform.": "플레이할 Destiny 2 플랫폼과 동일한 계정을 선택했는지 확인하세요."
+    "Please make sure you're using the same account you use to play Destiny 2 and the correct platform.": "플레이할 Destiny 2 플랫폼과 동일한 계정을 선택했는지 확인하세요.",
+    "Max Power": "Max Power",
+    "Please try to login again. If this keeps happening, check if there's any ongoing maintenance on Bungie's server through @BungieHelp or @LittleLightD2 twitter.": "Please try to login again. If this keeps happening, check if there's any ongoing maintenance on Bungie's server through @BungieHelp or @LittleLightD2 twitter.",
+    "Please check your internet connection and try again. If this keeps happening, check if Bungie's servers aren't on maintenance via @BungieHelp.": "Please check your internet connection and try again. If this keeps happening, check if Bungie's servers aren't on maintenance via @BungieHelp."
 }
