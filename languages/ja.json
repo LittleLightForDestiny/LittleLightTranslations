@@ -77,7 +77,7 @@
     "Pull everything from postmaster": "ポストマスターから全アイテムを取得する",
     "Equipment": "装備",
     "Weapon": "武器",
-    "Armor": "アーマー",
+    "Armor": "防具",
     "Inventory": "所持品",
     "Level {Level}": "レベル{Level}",
     "{itemCount} items selected": "{itemCount} 個のアイテムが選択済み",
