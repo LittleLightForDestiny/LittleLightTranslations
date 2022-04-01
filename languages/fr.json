@@ -348,9 +348,7 @@
     "Error downloading Database": "Erreur de chargement de la base de données",
     "There was an unexpected error starting Little Light.": "Une erreur inattendue s'est produite lors du démarrage de Petite Lumière.",
     "There was an error while authorizing your account with Bungie's servers.": "Il y a eu une erreur lors de l'autorisation de votre compte sur les serveurs de Bungie.",
-    "s any ongoing maintenance on Bungie": "s any ongoing maintenance on Bungie",
     "There was an error while downloading Destiny 2 database from Bungie's servers.": "Il y a eu une erreur lors du téléchargement de la base de données Destiny 2 depuis les serveurs de Bungie.",
-    "s servers aren": "s servers aren",
     "Restart Little Light": "Redémarrer Petite Lumière",
     "Clear data and restart": "Effacer les données et redémarrer",
     "Check @BungieHelp": "Consultez @BungieHelp",
@@ -363,5 +361,8 @@
     "Can't apply on combat zones": "Impossible d'appliquer dans les zones de combat",
     "This perk isn't available on the current season anymore": "Cet attribut n'est plus disponible pour la saison en cours",
     "Couldn't find playable Destiny 2 characters on your account.": "Impossible de trouver des personnages jouables de Destiny 2 sur votre compte.",
-    "Please make sure you're using the same account you use to play Destiny 2 and the correct platform.": "Assurez-vous d'utiliser le même compte que celui que vous utilisez pour jouer à Destiny 2 et la bonne plateforme."
+    "Please make sure you're using the same account you use to play Destiny 2 and the correct platform.": "Assurez-vous d'utiliser le même compte que celui que vous utilisez pour jouer à Destiny 2 et la bonne plateforme.",
+    "Max Power": "Puissance maximale",
+    "Please try to login again. If this keeps happening, check if there's any ongoing maintenance on Bungie's server through @BungieHelp or @LittleLightD2 twitter.": "Veuillez essayer de vous reconnecter. Si cela se reproduit, vérifiez s'il y a une maintenance en cours sur le serveur de Bungie via le Twitter de @BungieHelp ou @LittleLightD2.",
+    "Please check your internet connection and try again. If this keeps happening, check if Bungie's servers aren't on maintenance via @BungieHelp.": "Veuillez vérifier votre connexion Internet et réessayer. Si cela se reproduit, vérifiez que les serveurs de Bungie ne sont pas en maintenance via @BungieHelp."
 }

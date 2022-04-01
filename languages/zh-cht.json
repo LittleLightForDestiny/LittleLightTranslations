@@ -348,9 +348,7 @@
     "Error downloading Database": "下載數據庫時出錯",
     "There was an unexpected error starting Little Light.": "啟動 Little Light 時出現意外錯誤。",
     "There was an error while authorizing your account with Bungie's servers.": "使用 Bungie 的服務器授權您的帳戶時出現錯誤。",
-    "s any ongoing maintenance on Bungie": "s any ongoing maintenance on Bungie",
     "There was an error while downloading Destiny 2 database from Bungie's servers.": "從 Bungie 的服務器下載 Destiny 2 數據庫時出錯。",
-    "s servers aren": "s servers aren",
     "Restart Little Light": "重新開始 Little Light",
     "Clear data and restart": "清除數據並重新啟動",
     "Check @BungieHelp": "檢查 @BungieHelp",
@@ -363,5 +361,8 @@
     "Can't apply on combat zones": "無法在戰鬥區域應用",
     "This perk isn't available on the current season anymore": "本賽季無法獲得此裝備特權",
     "Couldn't find playable Destiny 2 characters on your account.": "我們在您的帳戶中找不到任何可玩的 Destiny2 角色。",
-    "Please make sure you're using the same account you use to play Destiny 2 and the correct platform.": "確保您選擇了與您正在玩的 Destiny 2 平台相同的帳戶。"
+    "Please make sure you're using the same account you use to play Destiny 2 and the correct platform.": "確保您選擇了與您正在玩的 Destiny 2 平台相同的帳戶。",
+    "Max Power": "最大功率",
+    "Please try to login again. If this keeps happening, check if there's any ongoing maintenance on Bungie's server through @BungieHelp or @LittleLightD2 twitter.": "請嘗試重新登錄。如果這種情況持續發生，請通過@BungieHelp 或@LittleLightD2 推特檢查 Bungie 的服務器上是否有任何正在進行的維護。",
+    "Please check your internet connection and try again. If this keeps happening, check if Bungie's servers aren't on maintenance via @BungieHelp.": "請檢查您的互聯網連接，然後重試。如果這種情況持續發生，請通過@BungieHelp 檢查 Bungie 的服務器是否未進行維護。"
 }
