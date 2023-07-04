@@ -461,5 +461,8 @@
     "There's no room in the selected destination. Please clear some inventory space and try again.": "There's no room in the selected destination. Please clear some inventory space and try again.",
     "Can't equip 2 exotics at the same time.": "Can't equip 2 exotics at the same time.",
     "The operation couldn't be completed because of an unexpected error": "The operation couldn't be completed because of an unexpected error",
-    "Transfer cancelled in favor of a newer transfer on the same item": "Transfer cancelled in favor of a newer transfer on the same item"
+    "Transfer cancelled in favor of a newer transfer on the same item": "Transfer cancelled in favor of a newer transfer on the same item",
+    "Applying changes": "Applying changes",
+    "The selected change can't be applied throught the API or third party apps like Little Light.": "The selected change can't be applied throught the API or third party apps like Little Light.",
+    "Can't apply changes on characters that are in combat zones.": "Can't apply changes on characters that are in combat zones."
 }
