@@ -4,7 +4,7 @@ let languages = ["en"];
 
 
 async function findStrings() {
-  let results = await finder.find(/TranslatedTextWidget\(\s*?["'](.*?)["'].*?[;,)]/, './../lib', '.dart$');
+  let results = await finder.find(/"(.*?)"[\n \r]*\.translate\(/, './../lib', '.dart$');
   return parseResults(results);
 }
 
@@ -21,23 +21,12 @@ function parseResult(key, result, foundStrings) {
   for (let i in result.matches) {
     if (!result.matches[i]) continue;
     let match = result.matches[i];
-    let regexpSingleQuote = /TranslatedTextWidget\(.[^"]*?['](.*?)[']/s;
-    let regexpDoubleQuote = /TranslatedTextWidget\(.*?["](.*?)["]/s;
-    let regMatch = regexpSingleQuote.exec(match) || regexpDoubleQuote.exec(match);
+    let regexp = /"(.*?)"[\n \r]*\.translate\(/s;
+    let regMatch = regexp.exec(match);
     if (regMatch) {
       let matchResult = regMatch[1];
       foundStrings.push(matchResult);
     };
-  }
-}
-
-async function copyOriginalLanguageFiles() {
-  for (var i in languages) {
-    let language = languages[i];
-    let exists = await fs.exists(`./languages/${language}.json`);
-    if (!exists) {
-      await fs.copy(`../assets/i18n/${language}.json`, `./languages/${language}.json`);
-    }
   }
 }
 
@@ -76,6 +65,26 @@ async function updateLanguageFile(language, strings, missingStrings) {
   await fs.writeJson(`./languages/${language}.json`, contents, { spaces: 4 });
 }
 
+async function checkDuplicatedKeys(language){
+  let contents = await fs.readJson(`./languages/${language}.json`);
+  let keys = Object.keys(contents).map((k)=>k.toLowerCase())
+  let unique = [];
+  let duplicates = [];
+  for(let key of keys){
+    if(unique.includes(key)){
+      duplicates.push(key);
+    }else{
+      unique.push(key);
+    }
+  }
+  let divider = '--------------------------------------------------------------------------------';
+  console.log('Duplicated strings')
+  console.log(divider)
+  for(let duplicate of duplicates){
+    console.log(`   - ${duplicate}`)
+  }
+}
+
 function printResults(result) {
   let divider = '--------------------------------------------------------------------------------';
   for (let language in result) {
@@ -93,11 +102,11 @@ function printResults(result) {
 
 async function run() {
   await fs.mkdirp('./languages');
-  // copyOriginalLanguageFiles();
   await createEmptyFiles();
   let strings = await findStrings();
   let result = await updateLanguageFiles(strings);
   printResults(result);
+  checkDuplicatedKeys('en');
 }
 
 run();
