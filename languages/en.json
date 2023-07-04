@@ -362,7 +362,6 @@
     "Navigate in offline mode": "Navigate in offline mode",
     "1 item selected": "1 item selected",
     "Syncing loadouts": "Syncing loadouts",
-    "Applying plugs": "Applying plugs",
     "Postmaster": "Postmaster",
     "Select all": "Select all",
     "Equippable max power": "Equippable max power",
@@ -462,7 +461,5 @@
     "There's no room in the selected destination. Please clear some inventory space and try again.": "There's no room in the selected destination. Please clear some inventory space and try again.",
     "Can't equip 2 exotics at the same time.": "Can't equip 2 exotics at the same time.",
     "The operation couldn't be completed because of an unexpected error": "The operation couldn't be completed because of an unexpected error",
-    "The selected socket can't be applied throught the API or third party apps like Little Light.": "The selected socket can't be applied throught the API or third party apps like Little Light.",
-    "Can't apply plugs on characters that are in combat zones.": "Can't apply plugs on characters that are in combat zones.",
     "Transfer cancelled in favor of a newer transfer on the same item": "Transfer cancelled in favor of a newer transfer on the same item"
 }
