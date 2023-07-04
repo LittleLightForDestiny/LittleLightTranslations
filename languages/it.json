@@ -462,7 +462,7 @@
     "Can't equip 2 exotics at the same time.": "Impossibile equipaggiare due esotiche contemporaneamente.",
     "The operation couldn't be completed because of an unexpected error": "L'operazione non può essere completata a causa di un errore imprevisto",
     "Transfer cancelled in favor of a newer transfer on the same item": "Trasferimento annullato in favore di un nuovo trasferimento sullo stesso oggetto",
-    "Applying changes": "Applying changes",
-    "The selected change can't be applied throught the API or third party apps like Little Light.": "The selected change can't be applied throught the API or third party apps like Little Light.",
-    "Can't apply changes on characters that are in combat zones.": "Can't apply changes on characters that are in combat zones."
+    "Applying changes": "Applicando i cambiamenti",
+    "The selected change can't be applied throught the API or third party apps like Little Light.": "I cambiamenti selezionati non possono essere applicati tramite l'API o le applicazioni di terze parti come Little Light.",
+    "Can't apply changes on characters that are in combat zones.": "Impossibile applicare cambiamenti sui personaggi che sono in zone di combattimento."
 }
