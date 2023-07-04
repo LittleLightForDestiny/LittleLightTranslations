@@ -362,7 +362,6 @@
     "Navigate in offline mode": "Naviga in modalità offline",
     "1 item selected": "1 oggetto selezionato",
     "Syncing loadouts": "Sincronizzazione dotazioni",
-    "Applying plugs": "Applicazione cambiamenti",
     "Postmaster": "Amministratrice",
     "Select all": "Seleziona tutto",
     "Equippable max power": "Potere massimo equipaggiabile",
@@ -462,7 +461,8 @@
     "There's no room in the selected destination. Please clear some inventory space and try again.": "Non c'è spazio della destinazione selezionata. Fai spazio in inventario e riprova.",
     "Can't equip 2 exotics at the same time.": "Impossibile equipaggiare due esotiche contemporaneamente.",
     "The operation couldn't be completed because of an unexpected error": "L'operazione non può essere completata a causa di un errore imprevisto",
-    "The selected socket can't be applied throught the API or third party apps like Little Light.": "L'alloggiamento selezionato non può essere modificato tramite l'API o le applicazioni di terze parti come Little Light.",
-    "Can't apply plugs on characters that are in combat zones.": "Impossibile applicare cambiamenti su personaggi che sono in zone di combattimento.",
-    "Transfer cancelled in favor of a newer transfer on the same item": "Trasferimento annullato in favore di un nuovo trasferimento sullo stesso oggetto"
+    "Transfer cancelled in favor of a newer transfer on the same item": "Trasferimento annullato in favore di un nuovo trasferimento sullo stesso oggetto",
+    "Applying changes": "Applying changes",
+    "The selected change can't be applied throught the API or third party apps like Little Light.": "The selected change can't be applied throught the API or third party apps like Little Light.",
+    "Can't apply changes on characters that are in combat zones.": "Can't apply changes on characters that are in combat zones."
 }
