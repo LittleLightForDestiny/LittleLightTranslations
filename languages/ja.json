@@ -362,7 +362,6 @@
     "Navigate in offline mode": "Navigate in offline mode",
     "1 item selected": "1つのアイテムを選択",
     "Syncing loadouts": "ロードアウトを同期しています",
-    "Applying plugs": "プラグを適用",
     "Postmaster": "ポストマスター",
     "Select all": "すべて選択",
     "Equippable max power": "Equippable max power",
@@ -462,7 +461,8 @@
     "There's no room in the selected destination. Please clear some inventory space and try again.": "転送先に空きスペースがありません。スペースを空けてから、やり直してください。",
     "Can't equip 2 exotics at the same time.": "同時に2つのエキゾチックを装備できません。",
     "The operation couldn't be completed because of an unexpected error": "予期しないエラーのため操作を完了できませんでした",
-    "The selected socket can't be applied throught the API or third party apps like Little Light.": "選択したModは、「小さき光よ」のようなAPIやサードパーティのアプリでは適用できません。",
-    "Can't apply plugs on characters that are in combat zones.": "戦闘中のキャラクターにはModを適用できません。",
-    "Transfer cancelled in favor of a newer transfer on the same item": "同じアイテムで新しい転送処理を優先したため、元々の転送をキャンセルされました"
+    "Transfer cancelled in favor of a newer transfer on the same item": "同じアイテムで新しい転送処理を優先したため、元々の転送をキャンセルされました",
+    "Applying changes": "Applying changes",
+    "The selected change can't be applied throught the API or third party apps like Little Light.": "The selected change can't be applied throught the API or third party apps like Little Light.",
+    "Can't apply changes on characters that are in combat zones.": "Can't apply changes on characters that are in combat zones."
 }
