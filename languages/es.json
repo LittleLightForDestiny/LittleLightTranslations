@@ -457,7 +457,7 @@
     "{days} days": "{days} días",
     "{months} months": "{months} meses",
     "{years} years": "{years} años",
-    "The selected item was not found on the expected location. Please update the inventory and try again.": "The selected item was not found on the expected location. Please update the inventory and try again.",
+    "The selected item was not found on the expected location. Please update the inventory and try again.": "El objeto seleccionado no se encontró en la ubicación esperada. Por favor actualiza el inventario y prueba de nuevo.",
     "There's no room in the selected destination. Please clear some inventory space and try again.": "There's no room in the selected destination. Please clear some inventory space and try again.",
     "Can't equip 2 exotics at the same time.": "Can't equip 2 exotics at the same time.",
     "The operation couldn't be completed because of an unexpected error": "The operation couldn't be completed because of an unexpected error",
