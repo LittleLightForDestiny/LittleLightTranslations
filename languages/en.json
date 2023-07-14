@@ -464,5 +464,8 @@
     "Transfer cancelled in favor of a newer transfer on the same item": "Transfer cancelled in favor of a newer transfer on the same item",
     "Applying changes": "Applying changes",
     "The selected change can't be applied throught the API or third party apps like Little Light.": "The selected change can't be applied throught the API or third party apps like Little Light.",
-    "Can't apply changes on characters that are in combat zones.": "Can't apply changes on characters that are in combat zones."
+    "Can't apply changes on characters that are in combat zones.": "Can't apply changes on characters that are in combat zones.",
+    "Equip Loadout": "Equip Loadout",
+    "As equipped item": "As equipped item",
+    "Crafting progress": "Crafting progress"
 }
