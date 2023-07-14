@@ -128,8 +128,8 @@
     "View next steps": "Посмотреть следующие этапы",
     "Ranks": "Ранги",
     "Objectives": "Цели",
-    "Stop tracking": "Прекратить отслеживание",
-    "Track objectives": "Отслеживать цели",
+    "Stop tracking": "Stop tracking",
+    "Track objectives": "Track objectives",
     "You aren't tracking any objectives yet. Add one from Triumphs or Pursuits.": "Вы еще не отслеживаете ни одной цели. Начните следить за ними из Триумфов или Поручений.",
     "Rewards": "Награды",
     "Expired": "Истек",
@@ -244,8 +244,8 @@
     "This perk is considered the best for PvE on this item.": "Этот перк считается лучшим для PvE в этом предмете.",
     "This perk is considered the best for PvP on this item.": "Этот перк считается лучшим для PvP в этом предмете.",
     "This item is considered a good roll for both PvE and PvP.": "Этот предмет считается хорошим роллом для PvE и PvP.",
-    "This item is considered a good roll for PvE.": "Этот предмет считается хорошим роллом для PvE.",
-    "This item is considered a good roll for PvP.": "Этот предмет считается хорошим роллом для PvP.",
+    "This item is considered a good roll for PvE.": "This item is considered a good roll for PvE.",
+    "This item is considered a good roll for PvP.": "This item is considered a good roll for PvP.",
     "PvE godroll": "Годролл PvE",
     "PvP godroll": "Годролл PvP",
     "Uncategorized": "Без категории",
@@ -464,5 +464,8 @@
     "Transfer cancelled in favor of a newer transfer on the same item": "Transfer cancelled in favor of a newer transfer on the same item",
     "Applying changes": "Applying changes",
     "The selected change can't be applied throught the API or third party apps like Little Light.": "The selected change can't be applied throught the API or third party apps like Little Light.",
-    "Can't apply changes on characters that are in combat zones.": "Can't apply changes on characters that are in combat zones."
+    "Can't apply changes on characters that are in combat zones.": "Can't apply changes on characters that are in combat zones.",
+    "Equip Loadout": "Equip Loadout",
+    "As equipped item": "As equipped item",
+    "Crafting progress": "Crafting progress"
 }
