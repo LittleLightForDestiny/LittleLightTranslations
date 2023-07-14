@@ -412,8 +412,8 @@
     "Power": "Poder",
     "View all notes": "Ver todas las notas",
     "View all builds": "Ver todas las combinaciones",
-    "Unlocking Item": "Desbloqueando objeto",
-    "Locking Item": "Bloqueando objeto",
+    "Unlocking Item": "Desbloqueando equipo",
+    "Locking Item": "Bloqueando equipo",
     "Unlocking": "Desbloqueando",
     "Locking": "Bloqueando",
     "Show previous steps ({stepCount})": "Mostrar pasos previos ({stepCount})",
@@ -465,7 +465,7 @@
     "Applying changes": "Aplicando cambios",
     "The selected change can't be applied throught the API or third party apps like Little Light.": "El cambio seleccionado no se puede aplicar a través de la API o aplicaciones de terceros como Lucecita.",
     "Can't apply changes on characters that are in combat zones.": "No se pueden aplicar cambios a los personajes que están en zonas de combate.",
-    "Equip Loadout": "Equip Loadout",
-    "As equipped item": "As equipped item",
-    "Crafting progress": "Crafting progress"
+    "Equip Loadout": "Equipar conjunto",
+    "As equipped item": "Como objeto equipado",
+    "Crafting progress": "Progreso de forja"
 }
