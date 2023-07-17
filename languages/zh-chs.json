@@ -467,5 +467,15 @@
     "Can't apply changes on characters that are in combat zones.": "Can't apply changes on characters that are in combat zones.",
     "Equip Loadout": "Equip Loadout",
     "As equipped item": "As equipped item",
-    "Crafting progress": "Crafting progress"
+    "Crafting progress": "Crafting progress",
+    "Random": "Random",
+    "Weapon Frame": "Weapon Frame",
+    "Deepsight": "Deepsight",
+    "Crafted": "Crafted",
+    "Random Loadout": "Random Loadout",
+    "Show items": "Show items",
+    "Randomize": "Randomize",
+    "Select": "Select",
+    "Force exotics": "Force exotics",
+    "Random loadout": "Random loadout"
 }
