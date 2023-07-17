@@ -467,5 +467,15 @@
     "Can't apply changes on characters that are in combat zones.": "Impossibile applicare cambiamenti sui personaggi che sono in zone di combattimento.",
     "Equip Loadout": "Equipaggia dotazione",
     "As equipped item": "Come oggetto equipaggiato",
-    "Crafting progress": "Avanzamento forgiatura"
+    "Crafting progress": "Avanzamento forgiatura",
+    "Random": "Random",
+    "Weapon Frame": "Weapon Frame",
+    "Deepsight": "Deepsight",
+    "Crafted": "Crafted",
+    "Random Loadout": "Random Loadout",
+    "Show items": "Show items",
+    "Randomize": "Randomize",
+    "Select": "Select",
+    "Force exotics": "Force exotics",
+    "Random loadout": "Random loadout"
 }
