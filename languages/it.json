@@ -464,5 +464,18 @@
     "Transfer cancelled in favor of a newer transfer on the same item": "Trasferimento annullato in favore di un nuovo trasferimento sullo stesso oggetto",
     "Applying changes": "Applicando i cambiamenti",
     "The selected change can't be applied throught the API or third party apps like Little Light.": "I cambiamenti selezionati non possono essere applicati tramite l'API o le applicazioni di terze parti come Little Light.",
-    "Can't apply changes on characters that are in combat zones.": "Impossibile applicare cambiamenti sui personaggi che sono in zone di combattimento."
+    "Can't apply changes on characters that are in combat zones.": "Impossibile applicare cambiamenti sui personaggi che sono in zone di combattimento.",
+    "Equip Loadout": "Equipaggia dotazione",
+    "As equipped item": "Come oggetto equipaggiato",
+    "Crafting progress": "Avanzamento forgiatura",
+    "Random": "Casuale",
+    "Weapon Frame": "Telaio arma",
+    "Deepsight": "Vista Profonda",
+    "Crafted": "Forgiata",
+    "Random Loadout": "Dotazione casuale",
+    "Show items": "Mostra oggetti",
+    "Randomize": "Randomizza",
+    "Select": "Seleziona",
+    "Force exotics": "Forza esotiche",
+    "Random loadout": "Dotazione casuale"
 }
