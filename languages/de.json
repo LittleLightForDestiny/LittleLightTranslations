@@ -477,5 +477,12 @@
     "Randomize": "Randomize",
     "Select": "Select",
     "Force exotics": "Force exotics",
-    "Random loadout": "Random loadout"
+    "Random loadout": "Random loadout",
+    "Clarity Insights": "Clarity Insights",
+    "Enable Clarity insights": "Enable Clarity insights",
+    "If enabled, Little Light will show information from Clarity - Destiny Research Database on perks and mods.": "If enabled, Little Light will show information from Clarity - Destiny Research Database on perks and mods.",
+    "scout,dragonfly,solar,etc...": "scout,dragonfly,solar,etc...",
+    "Search by pursuit or bounty name": "Search by pursuit or bounty name",
+    "Pattern progress": "Pattern progress",
+    "Lv{level}": "Lv{level}"
 }

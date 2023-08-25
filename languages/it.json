@@ -477,5 +477,12 @@
     "Randomize": "Randomizza",
     "Select": "Seleziona",
     "Force exotics": "Forza esotiche",
-    "Random loadout": "Dotazione casuale"
+    "Random loadout": "Dotazione casuale",
+    "Clarity Insights": "Spiegazioni di Clarity",
+    "Enable Clarity insights": "Abilita spiegazioni di Clarity",
+    "If enabled, Little Light will show information from Clarity - Destiny Research Database on perks and mods.": "Se abilitato, Little Light mostrerà informazioni da Clarity - Database Ricerca di Destiny sui perk e sulle Modifiche.",
+    "scout,dragonfly,solar,etc...": "ricognizione, libellula, solare, ecc...",
+    "Search by pursuit or bounty name": "Cerca per incarico o nome taglia",
+    "Pattern progress": "Progresso modello",
+    "Lv{level}": "Lv{level}"
 }

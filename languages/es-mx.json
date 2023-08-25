@@ -477,5 +477,12 @@
     "Randomize": "Aleatorizar",
     "Select": "Seleccionar",
     "Force exotics": "Forzar excepcional",
-    "Random loadout": "Conjunto aleatorio"
+    "Random loadout": "Conjunto aleatorio",
+    "Clarity Insights": "Explicaciones de Clarity",
+    "Enable Clarity insights": "Activar explicaciones de Clarity",
+    "If enabled, Little Light will show information from Clarity - Destiny Research Database on perks and mods.": "Si está activado, Lucecita mostrará información desde Clarity - Base de Datos de Investigación sobre Destiny para perks y modificadores.",
+    "scout,dragonfly,solar,etc...": "fusil de explorador, libélula, solar, etc...",
+    "Search by pursuit or bounty name": "Buscar por nombre de aventura o contrato",
+    "Pattern progress": "Progreso del patrón",
+    "Lv{level}": "Lv{level}"
 }
