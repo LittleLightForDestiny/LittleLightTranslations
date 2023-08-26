@@ -484,5 +484,8 @@
     "scout,dragonfly,solar,etc...": "スカウト、ドラゴンフライ、ソーラーなど...",
     "Search by pursuit or bounty name": "追跡中のクエストまたはバウンティ名で検索",
     "Pattern progress": "パターンの進行状況",
-    "Lv{level}": "Lv{level}"
+    "Lv{level}": "Lv{level}",
+    "Enable eye candy": "Enable eye candy",
+    "Enables glow animations on masterworks, engrams and other animations. Disabling it might save battery life.": "Enables glow animations on masterworks, engrams and other animations. Disabling it might save battery life.",
+    "Mods": "Mods"
 }
