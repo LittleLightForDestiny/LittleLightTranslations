@@ -484,5 +484,8 @@
     "scout,dragonfly,solar,etc...": "scout,dragonfly,solar,etc...",
     "Search by pursuit or bounty name": "Search by pursuit or bounty name",
     "Pattern progress": "Pattern progress",
-    "Lv{level}": "Lv{level}"
+    "Lv{level}": "Lv{level}",
+    "Enable eye candy": "Enable eye candy",
+    "Enables glow animations on masterworks, engrams and other animations. Disabling it might save battery life.": "Enables glow animations on masterworks, engrams and other animations. Disabling it might save battery life.",
+    "Mods": "Mods"
 }
