@@ -484,5 +484,8 @@
     "scout,dragonfly,solar,etc...": "fusil de explorador, libélula, solar, etc...",
     "Search by pursuit or bounty name": "Buscar por nombre de aventura o contrato",
     "Pattern progress": "Progreso del patrón",
-    "Lv{level}": "Nvl{level}"
+    "Lv{level}": "Nvl{level}",
+    "Enable eye candy": "Enable eye candy",
+    "Enables glow animations on masterworks, engrams and other animations. Disabling it might save battery life.": "Enables glow animations on masterworks, engrams and other animations. Disabling it might save battery life.",
+    "Mods": "Mods"
 }
