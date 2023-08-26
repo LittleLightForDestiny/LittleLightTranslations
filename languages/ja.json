@@ -478,11 +478,11 @@
     "Select": "選択",
     "Force exotics": "エキゾチックアイテムを必ず入れる",
     "Random loadout": "ランダムロードアウト",
-    "Clarity Insights": "Clarity Insights",
-    "Enable Clarity insights": "Enable Clarity insights",
-    "If enabled, Little Light will show information from Clarity - Destiny Research Database on perks and mods.": "If enabled, Little Light will show information from Clarity - Destiny Research Database on perks and mods.",
-    "scout,dragonfly,solar,etc...": "scout,dragonfly,solar,etc...",
-    "Search by pursuit or bounty name": "Search by pursuit or bounty name",
-    "Pattern progress": "Pattern progress",
+    "Clarity Insights": "Clarityでの評価",
+    "Enable Clarity insights": "Clarityでの評価を有効にする",
+    "If enabled, Little Light will show information from Clarity - Destiny Research Database on perks and mods.": "有効にすると、Destinyデータベース解析チーム「Clarity」によるパークと Mod評価を表示します。",
+    "scout,dragonfly,solar,etc...": "スカウト、ドラゴンフライ、ソーラーなど...",
+    "Search by pursuit or bounty name": "追跡中のクエストまたはバウンティ名で検索",
+    "Pattern progress": "パターンの進行状況",
     "Lv{level}": "Lv{level}"
 }
