@@ -482,7 +482,10 @@
     "Enable Clarity insights": "Abilita spiegazioni di Clarity",
     "If enabled, Little Light will show information from Clarity - Destiny Research Database on perks and mods.": "Se abilitato, Little Light mostrerà informazioni da Clarity - Database Ricerca di Destiny sui perk e sulle Modifiche.",
     "scout,dragonfly,solar,etc...": "ricognizione, libellula, solare, ecc...",
-    "Search by pursuit or bounty name": "Cerca per incarico o nome taglia",
+    "Search by pursuit or bounty name": "Cerca per nome incarico o taglia",
     "Pattern progress": "Progresso modello",
-    "Lv{level}": "Lv{level}"
+    "Lv{level}": "Lv{level}",
+    "Enable eye candy": "Abilita delizia per gli occhi",
+    "Enables glow animations on masterworks, engrams and other animations. Disabling it might save battery life.": "Abilita il bagliore sugli oggetti prodigio, gli engrammi e altre animazioni. Disabilitarlo può far risparmiare batteria.",
+    "Mods": "Modifiche"
 }
