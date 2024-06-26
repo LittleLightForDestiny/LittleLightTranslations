@@ -489,5 +489,7 @@
     "Enables glow animations on masterworks, engrams and other animations. Disabling it might save battery life.": "Habilita animaciones de brillo en obras maestras, engramas y otras animaciones. Deshabilitarlo puede ahorrar batería.",
     "Mods": "Mods",
     "name or source": "nombre u origen",
-    "Reset count": "Contador de reinicios"
+    "Reset count": "Contador de reinicios",
+    "Character base power:": "Character base power:",
+    "Account base power:": "Account base power:"
 }
