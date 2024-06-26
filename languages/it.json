@@ -489,5 +489,7 @@
     "Enables glow animations on masterworks, engrams and other animations. Disabling it might save battery life.": "Abilita il bagliore sugli oggetti prodigio, gli engrammi e altre animazioni. Disabilitarlo può far risparmiare batteria.",
     "Mods": "Modifiche",
     "name or source": "nome o fonte",
-    "Reset count": "Reset contatore"
+    "Reset count": "Reset contatore",
+    "Character base power:": "Character base power:",
+    "Account base power:": "Account base power:"
 }
