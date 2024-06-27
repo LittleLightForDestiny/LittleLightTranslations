@@ -488,5 +488,8 @@
     "Enable eye candy": "Habilitar adornos",
     "Enables glow animations on masterworks, engrams and other animations. Disabling it might save battery life.": "Habilita animaciones de brillo en obras maestras, engramas y otras animaciones. Deshabilitarlo puede ahorrar batería.",
     "Mods": "Mods",
-    "name or source": "nombre u origen"
+    "name or source": "nombre u origen",
+    "Reset count": "Contador de reinicios",
+    "Character base power:": "Poder base del personaje:",
+    "Account base power:": "Poder base de la cuenta:"
 }
