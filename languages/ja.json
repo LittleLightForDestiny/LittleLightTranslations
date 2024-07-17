@@ -488,5 +488,8 @@
     "Enable eye candy": "目の保養を有効にする",
     "Enables glow animations on masterworks, engrams and other animations. Disabling it might save battery life.": "マスターワーク、エングラム、その他アニメーションの輝き表現を有効にします。この機能をを無効にするとバッテリーを節約できます。",
     "Mods": "Mod",
-    "name or source": "名称または入手方法"
+    "name or source": "名称または入手方法",
+    "Reset count": "カウントリセット",
+    "Character base power:": "キャラクターの基本パワー値:",
+    "Account base power:": "アカウントの基本パワー値:"
 }
