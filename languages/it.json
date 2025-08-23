@@ -503,9 +503,9 @@
     "Import to Little Light": "Importa su Little Light",
     "Equip loadout": "Equipaggia dotazione",
     "Save changes": "Salva cambiamenti",
-    "Equippable max power:": "Equippable max power:",
-    "Account max power:": "Account max power:",
-    "Rewards Pass Rank {rank}": "Rewards Pass Rank {rank}",
-    "Item data": "Item data",
-    " \" + \"Piece": " \" + \"Piece"
+    "Equippable max power:": "Potete massimo equipaggiabile:",
+    "Account max power:": "Potere massimo account:",
+    "Rewards Pass Rank {rank}": "Grado Pass Ricompense {rank}",
+    "Item data": "Dati oggetto",
+    " \" + \"Piece": " \" + \"pezzo"
 }
