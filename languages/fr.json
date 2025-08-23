@@ -502,5 +502,10 @@
     "Item not found": "Item not found",
     "Import to Little Light": "Import to Little Light",
     "Equip loadout": "Equip loadout",
-    "Save changes": "Save changes"
+    "Save changes": "Save changes",
+    "Equippable max power:": "Equippable max power:",
+    "Account max power:": "Account max power:",
+    "Rewards Pass Rank {rank}": "Rewards Pass Rank {rank}",
+    "Item data": "Item data",
+    " \" + \"Piece": " \" + \"Piece"
 }
