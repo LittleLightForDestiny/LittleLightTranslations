@@ -489,7 +489,7 @@
     "Enables glow animations on masterworks, engrams and other animations. Disabling it might save battery life.": "启用后，会在大师杰作、记忆水晶等物品上显示动画。禁用可降低电量消耗。",
     "Mods": "模组",
     "name or source": "名称或来源",
-    "Reset count": "Reset count",
+    "Reset count": "重置计数",
     "Character base power:": "角色基础能量：",
     "Account base power:": "账号基础能量：",
     "Equipping loadout": "Equipping loadout",
@@ -505,8 +505,8 @@
     "Save changes": "保存更改",
     "Equippable max power:": "可装备的最高能量：",
     "Account max power:": "账号最高能量：",
-    "Rewards Pass Rank {rank}": "Rewards Pass Rank {rank}",
-    "Item data": "Item data",
+    "Rewards Pass Rank {rank}": "奖励通票等级 {rank}",
+    "Item data": "物品数据",
     " \" + \"Piece": " \" + \"Piece",
     "Breaker Type": "Breaker Type"
 }
