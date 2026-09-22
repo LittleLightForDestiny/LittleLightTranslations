@@ -508,5 +508,12 @@
     "Rewards Pass Rank {rank}": "報酬パスランク {rank}",
     "Item data": "アイテムデータ",
     " \" + \"Piece": " \" + \"個",
-    "Breaker Type": "対チャンピオン特性"
+    "Breaker Type": "対チャンピオン特性",
+    "Filter Settings": "Filter Settings",
+    "tap to exclude": "tap to exclude",
+    "Use tap instead of long press to exclude items.": "Use tap instead of long press to exclude items.",
+    "Text Filter Search Items": "Text Filter Search Items",
+    "Gear Tier": "Gear Tier",
+    "Destiny Loadout": "Destiny Loadout",
+    "Destiny Loadouts": "Destiny Loadouts"
 }
