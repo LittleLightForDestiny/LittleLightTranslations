@@ -509,11 +509,11 @@
     "Item data": "Dati oggetto",
     " \" + \"Piece": " \" + \"Pezzi",
     "Breaker Type": "Tipo di Anti-Campioni",
-    "Filter Settings": "Filter Settings",
-    "tap to exclude": "tap to exclude",
-    "Use tap instead of long press to exclude items.": "Use tap instead of long press to exclude items.",
-    "Text Filter Search Items": "Text Filter Search Items",
-    "Gear Tier": "Gear Tier",
-    "Destiny Loadout": "Destiny Loadout",
-    "Destiny Loadouts": "Destiny Loadouts"
+    "Filter Settings": "Impostazioni filtro",
+    "tap to exclude": "tocca per escludere",
+    "Use tap instead of long press to exclude items.": "Utilizza il tocco invece di premere a lungo per escludere gli oggetti.",
+    "Text Filter Search Items": "Filtro di ricerca testuale oggetti",
+    "Gear Tier": "Grado oggetto",
+    "Destiny Loadout": "Dotazione Destiny",
+    "Destiny Loadouts": "Dotazioni Destiny"
 }
